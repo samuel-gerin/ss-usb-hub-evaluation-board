@@ -6933,7 +6933,7 @@
 		)
 		(uuid "e8596237-3380-4326-abb5-7ffb1b5a3f2a")
 	)
-	(label "USB3TX1_N"
+	(label "USB3TX1_P"
 		(at 147.32 57.15 180)
 		(effects
 			(font
@@ -7294,7 +7294,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:MLF-6_L2.0-W2.0-P0.65-BL-EP"
+		(property "Footprint" ""
 			(at 54.102 82.55 90)
 			(hide yes)
 			(show_name no)
