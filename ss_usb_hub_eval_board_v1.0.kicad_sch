@@ -5776,7 +5776,7 @@
 	)
 	(text "P0 upstream"
 		(exclude_from_sim no)
-		(at 111.506 41.402 0)
+		(at 101.346 49.022 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -13080,7 +13080,7 @@
 		)
 		(uuid "2e86f795-4679-47f7-96bb-85afe3fa32d9")
 	)
-	(label "USB3TX_B0_N"
+	(label "USB3TX_B0_P"
 		(at 180.34 161.29 180)
 		(effects
 			(font
@@ -13170,7 +13170,7 @@
 		)
 		(uuid "55268e50-82d1-45f4-91b4-6801f2b94ed4")
 	)
-	(label "USB3RX_B0_N"
+	(label "USB3RX_A0_N"
 		(at 148.59 166.37 180)
 		(effects
 			(font
@@ -13220,7 +13220,7 @@
 		)
 		(uuid "60506134-eead-473a-8ac6-880540e51cf0")
 	)
-	(label "USB3TX_B0_P"
+	(label "USB3TX_B0_N"
 		(at 180.34 158.75 180)
 		(effects
 			(font
@@ -13340,7 +13340,7 @@
 		)
 		(uuid "aa2ff5ce-f7a7-40bc-857d-7b203c80e99f")
 	)
-	(label "USB3RX_B0_P"
+	(label "USB3RX_A0_P"
 		(at 148.59 168.91 180)
 		(effects
 			(font
