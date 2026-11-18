@@ -9070,8 +9070,20 @@
 		(uuid "235e485c-a90c-41f4-9572-a88f77d779d6")
 	)
 	(no_connect
+		(at 335.28 173.99)
+		(uuid "31318fa1-b0e7-41f3-af9a-5274d32fac0f")
+	)
+	(no_connect
+		(at 335.28 176.53)
+		(uuid "5d2fce60-7f09-4165-a6e2-971661535b2a")
+	)
+	(no_connect
 		(at 335.28 186.69)
 		(uuid "725e1633-1689-4e8a-802e-48eb8e36655f")
+	)
+	(no_connect
+		(at 335.28 166.37)
+		(uuid "7a87a1f9-2a7f-46ca-a2b0-162a66ff0ea3")
 	)
 	(no_connect
 		(at 107.95 53.34)
@@ -9110,12 +9122,28 @@
 		(uuid "a4577200-d84e-4ae3-8ec4-fcffcc95bf7d")
 	)
 	(no_connect
+		(at 238.76 212.09)
+		(uuid "a70f2157-f3a3-4b86-93e5-aa1726476ceb")
+	)
+	(no_connect
 		(at 335.28 138.43)
 		(uuid "a760d01b-fff4-421e-bc1f-2207154eccc0")
 	)
 	(no_connect
 		(at 335.28 107.95)
 		(uuid "a9c10828-5ce4-4a6d-afad-b8a3ce2a8042")
+	)
+	(no_connect
+		(at 335.28 151.13)
+		(uuid "b5e6ca60-7b91-43d7-895e-3a3b0da65353")
+	)
+	(no_connect
+		(at 335.28 153.67)
+		(uuid "b7438bf9-8306-4c6a-9086-87e8f21d066f")
+	)
+	(no_connect
+		(at 335.28 161.29)
+		(uuid "c22d54a4-ed61-43be-987a-d92b6c5f0247")
 	)
 	(no_connect
 		(at 335.28 201.93)
@@ -9428,6 +9456,16 @@
 			(type default)
 		)
 		(uuid "0f1bedf9-2f72-4937-8826-0f58c153bf61")
+	)
+	(wire
+		(pts
+			(xy 181.61 106.68) (xy 181.61 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f4ad059-94e2-441e-bf94-0e76cc24682f")
 	)
 	(wire
 		(pts
@@ -22596,6 +22634,85 @@
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba"
 					(reference "#PWR061")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 181.61 107.95 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "165f3f75-e65f-4b32-9b11-109e727c741e")
+		(property "Reference" "#PWR0122"
+			(at 181.61 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 181.61 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 181.61 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 181.61 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2f78801a-39be-423c-886f-6e197c4d03a1")
+		)
+		(instances
+			(project "ss_usb_hub_eval_board_v1.0"
+				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba"
+					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
@@ -40560,8 +40677,8 @@
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 220.218 134.62 90)
+		(property "Value" "200k"
+			(at 221.234 134.62 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
