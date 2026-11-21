@@ -639,7 +639,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 76.2) (xy 139.7 76.2)
+			(xy 121.92 67.31) (xy 124.46 67.31)
 		)
 		(stroke
 			(width 0)
@@ -649,7 +649,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 80.01) (xy 144.78 80.01)
+			(xy 121.92 71.12) (xy 129.54 71.12)
 		)
 		(stroke
 			(width 0)
@@ -659,7 +659,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 67.31) (xy 144.78 80.01)
+			(xy 129.54 58.42) (xy 129.54 71.12)
 		)
 		(stroke
 			(width 0)
@@ -669,7 +669,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 83.82) (xy 149.86 83.82)
+			(xy 121.92 74.93) (xy 134.62 74.93)
 		)
 		(stroke
 			(width 0)
@@ -679,7 +679,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 76.2) (xy 139.7 67.31)
+			(xy 124.46 67.31) (xy 124.46 58.42)
 		)
 		(stroke
 			(width 0)
@@ -689,7 +689,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 67.31) (xy 149.86 83.82)
+			(xy 134.62 58.42) (xy 134.62 74.93)
 		)
 		(stroke
 			(width 0)
@@ -699,7 +699,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 139.7 67.31 0)
+		(at 124.46 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -709,7 +709,7 @@
 		(dnp no)
 		(uuid "164651f5-f6da-4b9e-9374-e2dddd8e70cb")
 		(property "Reference" "#PWR067"
-			(at 139.7 71.12 0)
+			(at 124.46 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -720,7 +720,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 137.922 62.23 0)
+			(at 122.682 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -730,7 +730,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 139.7 67.31 0)
+			(at 124.46 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -741,7 +741,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 67.31 0)
+			(at 124.46 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -752,7 +752,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 139.7 67.31 0)
+			(at 124.46 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -776,7 +776,7 @@
 	)
 	(symbol
 		(lib_id "power:+1V2")
-		(at 149.86 67.31 0)
+		(at 134.62 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -786,7 +786,7 @@
 		(dnp no)
 		(uuid "29f330c9-cf43-4923-b19c-c7a8b4b4f888")
 		(property "Reference" "#PWR079"
-			(at 149.86 71.12 0)
+			(at 134.62 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -797,7 +797,7 @@
 			)
 		)
 		(property "Value" "+1V2"
-			(at 151.13 62.23 0)
+			(at 135.89 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -807,7 +807,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 67.31 0)
+			(at 134.62 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -818,7 +818,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 67.31 0)
+			(at 134.62 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -829,7 +829,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+1V2\""
-			(at 149.86 67.31 0)
+			(at 134.62 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -853,7 +853,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 144.78 67.31 0)
+		(at 129.54 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -864,7 +864,7 @@
 		(fields_autoplaced yes)
 		(uuid "a4c12708-9c33-45a6-b9a6-05152e0a1f5f")
 		(property "Reference" "#PWR073"
-			(at 144.78 71.12 0)
+			(at 129.54 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -875,7 +875,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 144.78 62.23 0)
+			(at 129.54 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -885,7 +885,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 144.78 67.31 0)
+			(at 129.54 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -896,7 +896,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 67.31 0)
+			(at 129.54 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -907,7 +907,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 144.78 67.31 0)
+			(at 129.54 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -930,8 +930,8 @@
 		)
 	)
 	(sheet
-		(at 109.22 71.12)
-		(size 26.67 19.05)
+		(at 85.09 62.23)
+		(size 36.83 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -946,7 +946,7 @@
 		)
 		(uuid "36d12796-5080-4fc1-9a32-bebb94383b69")
 		(property "Sheetname" "Power Distribution"
-			(at 109.22 70.4084 0)
+			(at 85.09 61.5184 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -957,7 +957,7 @@
 			)
 		)
 		(property "Sheetfile" "power_distribution.kicad_sch"
-			(at 109.22 90.7546 0)
+			(at 85.09 80.5946 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -968,7 +968,7 @@
 			)
 		)
 		(pin "+1.2V" output
-			(at 135.89 83.82 0)
+			(at 121.92 74.93 0)
 			(uuid "e4a33fb8-eb46-45e8-934d-4398ab07eae4")
 			(effects
 				(font
@@ -978,7 +978,7 @@
 			)
 		)
 		(pin "+3.3V" output
-			(at 135.89 80.01 0)
+			(at 121.92 71.12 0)
 			(uuid "257dfbd5-370a-4a4b-8a18-1591db396838")
 			(effects
 				(font
@@ -988,7 +988,7 @@
 			)
 		)
 		(pin "+5V" output
-			(at 135.89 76.2 0)
+			(at 121.92 67.31 0)
 			(uuid "93851233-aaab-4644-b71f-85a4634d08a0")
 			(effects
 				(font
@@ -1006,8 +1006,8 @@
 		)
 	)
 	(sheet
-		(at 109.22 97.79)
-		(size 26.67 19.05)
+		(at 85.09 86.36)
+		(size 36.83 46.99)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1022,7 +1022,7 @@
 		)
 		(uuid "ab8a4010-c3e7-4543-af8e-e69f95f95db4")
 		(property "Sheetname" "USB-hub"
-			(at 109.22 97.0784 0)
+			(at 85.09 85.6484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1033,7 +1033,7 @@
 			)
 		)
 		(property "Sheetfile" "usb_hub.kicad_sch"
-			(at 109.22 117.4246 0)
+			(at 85.09 133.9346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1052,8 +1052,8 @@
 		)
 	)
 	(sheet
-		(at 153.67 97.79)
-		(size 27.94 19.05)
+		(at 139.7 86.36)
+		(size 36.83 46.99)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1068,7 +1068,7 @@
 		)
 		(uuid "fc53ba86-9c7a-44a4-8daf-7337533c6969")
 		(property "Sheetname" "IO"
-			(at 153.67 97.0784 0)
+			(at 139.7 85.6484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1079,7 +1079,7 @@
 			)
 		)
 		(property "Sheetfile" "io.kicad_sch"
-			(at 153.67 117.4246 0)
+			(at 139.7 133.9346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1087,6 +1087,136 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "PRT_CTL1" output
+			(at 139.7 104.14 180)
+			(uuid "eae72861-ad9e-4f6c-b4cb-f90e9d6fc445")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PRT_CTL2" output
+			(at 139.7 110.49 180)
+			(uuid "d55bad7f-f748-4c50-8eee-2e8d2d665f84")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PRT_CTL3" output
+			(at 139.7 116.84 180)
+			(uuid "9334c4d4-ccf0-498e-a195-8ed06f20e494")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PRT_CTL4" output
+			(at 139.7 123.19 180)
+			(uuid "37c5a828-365e-4f20-8c33-28f78bc888e9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PRT_CTL5" output
+			(at 139.7 129.54 180)
+			(uuid "eff4de74-8343-4192-8c78-6c32afebc77b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_DIR" output
+			(at 139.7 96.52 180)
+			(uuid "538bb5e8-eabc-4e51-8b34-63fc2a105940")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VBUS_DET" output
+			(at 139.7 93.98 180)
+			(uuid "c85e6b58-d4d9-4c2b-a8a6-07c486473e37")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{USB_P1}" output
+			(at 139.7 101.6 180)
+			(uuid "b7755eee-054a-4859-abc8-b60f4fdd95ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{USB_P2}" output
+			(at 139.7 107.95 180)
+			(uuid "faa090a1-2c2d-4182-9624-1ce45e68485e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{USB_P3}" output
+			(at 139.7 114.3 180)
+			(uuid "1776ed51-5563-494a-a7d3-6bfaae664cd6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{USB_P4}" output
+			(at 139.7 120.65 180)
+			(uuid "87305a76-748a-495a-84c8-6c2125352608")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{USB_P5}" output
+			(at 139.7 127 180)
+			(uuid "9ac775ca-9600-47a8-aba3-cd3556de84df")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "{USB_UP}" bidirectional
+			(at 139.7 91.44 180)
+			(uuid "b344b6c2-4cd4-4db4-8c20-27748e6bcbbe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
