@@ -1007,7 +1007,7 @@
 	)
 	(sheet
 		(at 109.22 97.79)
-		(size 29.21 19.05)
+		(size 26.67 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1052,8 +1052,8 @@
 		)
 	)
 	(sheet
-		(at 168.91 74.93)
-		(size 25.4 16.51)
+		(at 153.67 97.79)
+		(size 27.94 19.05)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1068,7 +1068,7 @@
 		)
 		(uuid "fc53ba86-9c7a-44a4-8daf-7337533c6969")
 		(property "Sheetname" "IO"
-			(at 168.91 74.2184 0)
+			(at 153.67 97.0784 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1079,7 +1079,7 @@
 			)
 		)
 		(property "Sheetfile" "io.kicad_sch"
-			(at 168.91 92.0246 0)
+			(at 153.67 117.4246 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
