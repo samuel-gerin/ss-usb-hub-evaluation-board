@@ -511,6 +511,46 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 18,
+        "line_style": 0,
+        "name": "+1.2V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgb(255, 255, 0)",
+        "tuning_profile": "",
+        "wire_width": 18
+      },
+      {
+        "bus_width": 18,
+        "line_style": 0,
+        "name": "+3.3V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgb(255, 153, 0)",
+        "tuning_profile": "",
+        "wire_width": 18
+      },
+      {
+        "bus_width": 18,
+        "line_style": 0,
+        "name": "+5V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
+        "schematic_color": "rgb(255, 0, 0)",
+        "tuning_profile": "",
+        "wire_width": 18
+      },
+      {
+        "bus_width": 18,
+        "line_style": 0,
+        "name": "GND",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(0, 0, 0)",
+        "tuning_profile": "",
+        "wire_width": 18
       }
     ],
     "meta": {
@@ -518,7 +558,28 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "+5V",
+        "pattern": "+5V"
+      },
+      {
+        "netclass": "+3.3V",
+        "pattern": "+3.3V"
+      },
+      {
+        "netclass": "+1.2V",
+        "pattern": "+1.2V"
+      },
+      {
+        "netclass": "GND",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "+1.2V",
+        "pattern": "+1V2"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -669,13 +730,25 @@
         "uuid": "fae64aac-e6a1-42ae-9b76-6570896d6bba"
       }
     ],
-    "used_designators": "L1,D1-15,C1-60,Y1,#PWR1-122,R1-28,J1-7,Q1,U1-9",
+    "used_designators": "L1,D1-15,C1-61,Y1,#PWR1-122,R1-29,J1-7,Q1,U1-9",
     "variants": []
   },
   "sheets": [
     [
       "fae64aac-e6a1-42ae-9b76-6570896d6bba",
       "Root"
+    ],
+    [
+      "ab8a4010-c3e7-4543-af8e-e69f95f95db4",
+      "USB-hub"
+    ],
+    [
+      "36d12796-5080-4fc1-9a32-bebb94383b69",
+      "Power Distribution"
+    ],
+    [
+      "fc53ba86-9c7a-44a4-8daf-7337533c6969",
+      "IO"
     ]
   ],
   "text_variables": {},
