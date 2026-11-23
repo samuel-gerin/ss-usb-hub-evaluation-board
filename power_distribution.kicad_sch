@@ -5834,7 +5834,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7µ"
+		(property "Value" "10µ 0805 16V"
 			(at 182.88 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5916,7 +5916,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7µ"
+		(property "Value" "10µ 0805 16V"
 			(at 142.24 102.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6700,7 +6700,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10µ"
+		(property "Value" "10µ 0805 16V"
 			(at 213.614 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7568,7 +7568,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10µ"
+		(property "Value" "10µ 0805 16V"
 			(at 203.454 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8507,7 +8507,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10µ"
+		(property "Value" "10µ 0805 16V"
 			(at 223.774 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9213,10 +9213,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f683bb5e-7920-48ec-924f-1745d584cb72")
 		(property "Reference" "C23"
-			(at 142.24 71.1199 0)
+			(at 141.478 79.248 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9226,8 +9225,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7µ"
-			(at 142.24 73.6599 0)
+		(property "Value" "10µ 0805 16V"
+			(at 134.874 82.042 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

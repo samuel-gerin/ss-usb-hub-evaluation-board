@@ -8164,7 +8164,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33p"
+		(property "Value" "33p C0G"
 			(at 71.12 191.7699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9782,7 +9782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:WDFN-12-1EP_3x3mm_P0.45mm_EP1.7x2.5mm"
+		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD"
 			(at 57.15 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -11512,7 +11512,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33p"
+		(property "Value" "33p C0G"
 			(at 49.53 191.7699 0)
 			(show_name no)
 			(do_not_autoplace no)

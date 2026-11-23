@@ -14602,7 +14602,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47µ"
+		(property "Value" "10µ 0805 16V"
 			(at 530.86 228.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15007,7 +15007,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47µ"
+		(property "Value" "10µ 0805 16V"
 			(at 530.86 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15493,7 +15493,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47µ"
+		(property "Value" "10µ 0805 16V"
 			(at 360.68 346.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16580,7 +16580,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 343.408 315.722 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16821,7 +16821,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 513.588 197.612 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16979,7 +16979,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 513.588 69.342 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17579,7 +17579,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 163.83 220.98 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18867,7 +18867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "JLCPCB:UDFN-14_L3.5-W1.3-P0.50-BL"
 			(at 297.18 328.93 0)
 			(hide yes)
 			(show_name no)
@@ -19495,7 +19495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "JLCPCB:UDFN-14_L3.5-W1.3-P0.50-BL"
 			(at 295.91 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -19635,7 +19635,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120µ"
+		(property "Value" "120µ 16V"
 			(at 271.78 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19726,7 +19726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "JLCPCB:UDFN-14_L3.5-W1.3-P0.50-BL"
 			(at 467.36 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -20219,7 +20219,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47µ"
+		(property "Value" "10µ 0805 16V"
 			(at 359.41 228.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21172,7 +21172,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120µ"
+		(property "Value" "120µ 16V"
 			(at 271.78 228.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21518,7 +21518,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120µ"
+		(property "Value" "120µ 16V"
 			(at 443.23 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21679,7 +21679,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47µ"
+		(property "Value" "10µ 0805 16V"
 			(at 359.41 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21838,7 +21838,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 513.588 203.962 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21994,7 +21994,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 342.138 69.342 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22308,7 +22308,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120µ"
+		(property "Value" "120µ 16V"
 			(at 443.23 228.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22842,7 +22842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "JLCPCB:UDFN-14_L3.5-W1.3-P0.50-BL"
 			(at 467.36 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -23217,7 +23217,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 164.084 186.182 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23745,7 +23745,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 342.138 203.962 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23824,7 +23824,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 164.084 190.5 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23903,7 +23903,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 342.138 197.612 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24157,7 +24157,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 163.83 216.662 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24351,7 +24351,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "JLCPCB:UDFN-14_L3.5-W1.3-P0.50-BL"
 			(at 295.91 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -24855,7 +24855,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120µ"
+		(property "Value" "120µ 16V"
 			(at 273.05 346.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25014,7 +25014,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 513.588 75.692 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25093,7 +25093,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 342.138 75.692 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25721,7 +25721,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ"
+		(property "Value" "0.1µ 0402"
 			(at 343.408 322.072 90)
 			(show_name no)
 			(do_not_autoplace no)
