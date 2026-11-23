@@ -69,7 +69,13 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -203,7 +209,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -230,7 +238,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -516,7 +529,7 @@
         "bus_width": 18,
         "line_style": 0,
         "name": "+1.2V",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(255, 255, 0)",
         "priority": 1,
         "schematic_color": "rgb(255, 255, 0)",
         "tuning_profile": "",
@@ -526,7 +539,7 @@
         "bus_width": 18,
         "line_style": 0,
         "name": "+3.3V",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(255, 153, 0)",
         "priority": 2,
         "schematic_color": "rgb(255, 153, 0)",
         "tuning_profile": "",
@@ -536,7 +549,7 @@
         "bus_width": 18,
         "line_style": 0,
         "name": "+5V",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(255, 0, 0)",
         "priority": 3,
         "schematic_color": "rgb(255, 0, 0)",
         "tuning_profile": "",
@@ -546,7 +559,7 @@
         "bus_width": 18,
         "line_style": 0,
         "name": "GND",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(72, 72, 72)",
         "priority": 0,
         "schematic_color": "rgb(0, 0, 0)",
         "tuning_profile": "",
@@ -578,6 +591,10 @@
       {
         "netclass": "+1.2V",
         "pattern": "+1V2"
+      },
+      {
+        "netclass": "+5V",
+        "pattern": "/Power Distribution/+5V_in"
       }
     ]
   },
@@ -837,7 +854,7 @@
         "uuid": "fae64aac-e6a1-42ae-9b76-6570896d6bba"
       }
     ],
-    "used_designators": "H1-4,#FLG1-4,L1,D1-19,C1-65,Y1,#PWR1-136,TP1-5,TP48-52,TP56,R1-32,J1-7,Q1,U1-9",
+    "used_designators": "H1-4,#FLG1-4,L1,D1-19,C1-65,Y1,#PWR1-138,TP1-5,TP48-52,TP56,R1-32,J1-7,Q1,U1-11",
     "variants": []
   },
   "sheets": [

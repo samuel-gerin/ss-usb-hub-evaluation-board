@@ -6921,6 +6921,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 170.18 264.1599 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4eb2d938-c297-4779-83ae-a3d48a6b02c6")
 		)
@@ -7080,6 +7091,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 119.38 238.7599 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ea68f110-7474-45cc-a11f-492dcf9a0a9d")
 		)
@@ -7153,6 +7175,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 114.3 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 118.11 264.1599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7466,6 +7499,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 128.27 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 132.08 264.1599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7946,6 +7990,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C2286"
+			(at 68.58 251.7774 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 64.77 251.46 0)
 			(hide yes)
@@ -8272,6 +8327,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C1663"
+			(at 71.12 189.2299 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a20573e0-fbe0-4b5b-af67-33fc153fd2e2")
 		)
@@ -8431,6 +8497,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 185.42 238.7599 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6571943e-08d7-4f2c-86a7-cf4f696fd27c")
 		)
@@ -8504,6 +8581,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 129.54 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 133.35 238.7599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8750,6 +8838,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 294.386 146.812 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5b9b5011-7ac0-475a-b4d3-42da65f87757")
 		)
@@ -8823,6 +8922,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 232.41 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 236.22 264.1599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8991,6 +9101,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 146.05 238.7599 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0711344d-31c6-4f7a-96d5-0160970fd389")
 		)
@@ -9064,6 +9185,17 @@
 		)
 		(property "Description" "Light emitting diode"
 			(at 43.18 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2286"
+			(at 46.99 251.7774 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9314,6 +9446,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 218.44 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 222.25 264.1599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9796,6 +9939,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 196.85 264.1599 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3640d46a-ff40-4fab-839c-0489f9bde3b1")
 		)
@@ -9869,6 +10023,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 140.97 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 144.78 264.1599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10040,6 +10205,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 157.48 264.1599 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "15221348-b152-4826-b685-1a4947a9083e")
 		)
@@ -10113,6 +10289,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 194.31 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 198.12 238.7599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10512,6 +10699,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 294.386 106.172 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "00d4ae10-fa9e-4c97-817f-eea18876eebc")
 		)
@@ -10594,6 +10792,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 105.41 264.1599 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d32e20b2-b717-41b5-8a08-348629a86f61")
 		)
@@ -10667,6 +10876,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 167.64 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 171.45 238.7599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11145,6 +11365,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C15849"
+			(at 150.876 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5a0a90a8-b7f9-4a4c-b78c-1546aa0bb5d7")
 		)
@@ -11304,6 +11535,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 210.82 238.7599 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bc2c3d54-8007-4359-a22d-c88c559b2523")
 		)
@@ -11377,6 +11619,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 205.74 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 209.55 264.1599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11542,6 +11795,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 149.606 99.314 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "68fd73d0-1d40-4530-a04f-d56a6511d8cb")
 		)
@@ -11612,6 +11876,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 299.72 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 294.386 113.792 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11850,6 +12125,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 45.72 190.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1663"
+			(at 49.53 189.2299 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12171,6 +12457,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 294.386 156.972 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "702e1b05-f1a9-4151-aac4-97214a320a8d")
 		)
@@ -12244,6 +12541,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 154.94 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 158.75 238.7599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13048,6 +13356,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 180.34 265.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C14663"
+			(at 184.15 264.1599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
