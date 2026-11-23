@@ -504,6 +504,17 @@
 		)
 		(uuid "16bc0f13-2ecf-43d8-b37f-82738b6ea102")
 	)
+	(text "- TVS diode\n- Mounting Holes"
+		(exclude_from_sim no)
+		(at 223.012 81.788 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left)
+		)
+		(uuid "20a0bbf0-7577-4857-8e2b-64693b5936a1")
+	)
 	(text "DESIGN NOTE:\nExample text for\ncritical \ndesign notes."
 		(exclude_from_sim no)
 		(at 114.3 185.42 0)
@@ -615,6 +626,19 @@
 			(justify left)
 		)
 		(uuid "d3323d11-0e23-407f-8b18-22250c51ba83")
+	)
+	(text "ToDo:"
+		(exclude_from_sim no)
+		(at 229.616 73.152 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 1.016)
+				(bold yes)
+				(color 0 0 194 1)
+			)
+		)
+		(uuid "e41d3249-169a-43ab-9b13-6476f00206f2")
 	)
 	(text "Super Speed (USB 3.1 Gen 1, 5 Gbps) \nHub Evaluation Board"
 		(exclude_from_sim no)
@@ -1312,6 +1336,52 @@
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 58.42)
+		(size 38.1 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e54fc359-0805-4e81-9990-fb47449eb821")
+		(property "Sheetname" "Misc"
+			(at 144.78 57.7084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "misc.kicad_sch"
+			(at 144.78 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ss_usb_hub_eval_board_v1.0"
+				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba"
+					(page "5")
 				)
 			)
 		)
