@@ -2770,6 +2770,12 @@
 		(uuid "ce45513b-d138-41dd-9c9c-cdbafface3ef")
 	)
 	(junction
+		(at 138.43 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb4ca3fc-573c-4713-be5d-355e1e865958")
+	)
+	(junction
 		(at 133.35 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3032,6 +3038,16 @@
 			(type default)
 		)
 		(uuid "50c2e8e8-078a-47bc-8775-15899a8185f9")
+	)
+	(wire
+		(pts
+			(xy 138.43 107.95) (xy 138.43 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54647e8a-4a2c-430a-91a0-d559255be3be")
 	)
 	(wire
 		(pts
@@ -3395,7 +3411,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 109.22) (xy 138.43 105.41)
+			(xy 138.43 109.22) (xy 138.43 107.95)
 		)
 		(stroke
 			(width 0)
@@ -6738,6 +6754,85 @@
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
 					(reference "C57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 138.43 107.95 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "86f4c926-d6c7-4819-aea8-17c4bb215279")
+		(property "Reference" "#FLG04"
+			(at 140.335 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 143.51 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 138.43 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "905a84c5-ca7c-40a6-be78-8e8857441253")
+		)
+		(instances
+			(project "ss_usb_hub_eval_board_v1.0"
+				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
