@@ -14613,7 +14613,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 528.0152 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -15018,7 +15018,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 528.0152 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -15504,7 +15504,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 357.8352 349.25 0)
 			(hide yes)
 			(show_name no)
@@ -16258,7 +16258,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "JLCPCB:UDFN-14_L3.5-W1.3-P0.50-BL"
 			(at 115.57 237.49 0)
 			(hide yes)
 			(show_name no)
@@ -16580,7 +16580,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 343.408 315.722 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16590,7 +16590,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 342.9 317.8048 0)
 			(hide yes)
 			(show_name no)
@@ -16821,7 +16821,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 513.588 197.612 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16831,7 +16831,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 513.08 199.6948 0)
 			(hide yes)
 			(show_name no)
@@ -16979,7 +16979,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 513.588 69.342 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16989,7 +16989,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 513.08 71.4248 0)
 			(hide yes)
 			(show_name no)
@@ -17579,7 +17579,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 163.83 220.98 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17589,7 +17589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 163.83 222.5548 0)
 			(hide yes)
 			(show_name no)
@@ -19635,7 +19635,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120µ 16V"
+		(property "Value" "150µ 16V"
 			(at 271.78 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19646,7 +19646,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_8x6.9"
 			(at 268.9352 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -20230,7 +20230,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 356.5652 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -20389,7 +20389,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "JLCPCB:UDFN-14_L3.5-W1.3-P0.50-BL"
 			(at 115.57 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -21172,7 +21172,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120µ 16V"
+		(property "Value" "150µ 16V"
 			(at 271.78 228.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21183,7 +21183,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_8x6.9"
 			(at 268.9352 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -21436,7 +21436,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 82.55 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -21518,7 +21518,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120µ 16V"
+		(property "Value" "150µ 16V"
 			(at 443.23 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21529,7 +21529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_8x6.9"
 			(at 440.3852 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -21690,7 +21690,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 356.5652 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -21838,7 +21838,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 513.588 203.962 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21848,7 +21848,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 513.08 206.0448 0)
 			(hide yes)
 			(show_name no)
@@ -21994,7 +21994,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 342.138 69.342 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22004,7 +22004,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 341.63 71.4248 0)
 			(hide yes)
 			(show_name no)
@@ -22308,7 +22308,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120µ 16V"
+		(property "Value" "150µ 16V"
 			(at 443.23 228.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22319,7 +22319,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_8x6.9"
 			(at 440.3852 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -23217,7 +23217,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 164.084 186.182 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23227,7 +23227,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 163.83 186.9948 0)
 			(hide yes)
 			(show_name no)
@@ -23745,7 +23745,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 342.138 203.962 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23755,7 +23755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 341.63 206.0448 0)
 			(hide yes)
 			(show_name no)
@@ -23824,7 +23824,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 164.084 190.5 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23834,7 +23834,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 163.83 192.0748 0)
 			(hide yes)
 			(show_name no)
@@ -23903,7 +23903,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 342.138 197.612 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23913,7 +23913,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 341.63 199.6948 0)
 			(hide yes)
 			(show_name no)
@@ -24157,7 +24157,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 163.83 216.662 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24167,7 +24167,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 163.83 217.4748 0)
 			(hide yes)
 			(show_name no)
@@ -24855,7 +24855,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "120µ 16V"
+		(property "Value" "150µ 16V"
 			(at 273.05 346.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24866,7 +24866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_8x6.9"
 			(at 270.2052 349.25 0)
 			(hide yes)
 			(show_name no)
@@ -25014,7 +25014,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 513.588 75.692 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25024,7 +25024,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 513.08 77.7748 0)
 			(hide yes)
 			(show_name no)
@@ -25093,7 +25093,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 342.138 75.692 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25103,7 +25103,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 341.63 77.7748 0)
 			(hide yes)
 			(show_name no)
@@ -25721,7 +25721,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1µ 0402"
+		(property "Value" "100n 0402"
 			(at 343.408 322.072 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25731,7 +25731,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 342.9 324.1548 0)
 			(hide yes)
 			(show_name no)
