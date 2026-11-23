@@ -466,7 +466,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "ignore",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -837,7 +837,7 @@
         "uuid": "fae64aac-e6a1-42ae-9b76-6570896d6bba"
       }
     ],
-    "used_designators": "#FLG1-4,L1,D1-19,C1-61,Y1,#PWR1-136,TP1-5,TP48-52,TP56,R1-32,J1-7,Q1,U1-9",
+    "used_designators": "#FLG1-4,L1,D1-19,C1-65,Y1,#PWR1-136,TP1-5,TP48-52,TP56,R1-32,J1-7,Q1,U1-9",
     "variants": []
   },
   "sheets": [
