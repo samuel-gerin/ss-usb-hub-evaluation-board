@@ -2,5 +2,5 @@ Assignment recovery and save report
 
 Safe schematic changes were saved. The following assignments or recovery data need review:
 
-TP5 [324add27-cd70-40fe-bb44-8ab57d4efc9e]: conflict assignment; schematic assignment preserved.
-TP4 [11c21ab5-a410-4d97-909e-c86f4157d370]: conflict assignment; schematic assignment preserved.
+TP5 [17ea245f-0cea-45fa-ba8e-740796cf8f2f]: conflict assignment; schematic assignment preserved.
+TP4 [6216bae4-9f28-4150-b27e-a44e0e6b531d]: conflict assignment; schematic assignment preserved.
