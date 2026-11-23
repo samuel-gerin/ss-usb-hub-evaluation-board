@@ -681,7 +681,60 @@
       "sort_asc": true,
       "sort_field": "Reference"
     },
-    "bus_aliases": {},
+    "bus_aliases": {
+      "USB_P1": [
+        "USB2P1_P",
+        "USB2P1_N",
+        "USB3TX1_P",
+        "USB3TX1_N",
+        "USB3RX1_P",
+        "USB3RX1_N"
+      ],
+      "USB_P2": [
+        "USB2P2_P",
+        "USB2P2_N",
+        "USB3TX2_P",
+        "USB3TX2_N",
+        "USB3RX2_P",
+        "USB3RX2_N"
+      ],
+      "USB_P3": [
+        "USB2P3_P",
+        "USB2P3_N",
+        "USB3TX3_P",
+        "USB3TX3_N",
+        "USB3RX3_P",
+        "USB3RX3_N"
+      ],
+      "USB_P4": [
+        "USB2P4_P",
+        "USB2P4_N",
+        "USB3TX4_P",
+        "USB3TX4_N",
+        "USB3RX4_P",
+        "USB3RX4_N"
+      ],
+      "USB_P5": [
+        "USB2P5_P",
+        "USB2P5_N",
+        "USB3TX5_P",
+        "USB3TX5_N",
+        "USB3RX5_P",
+        "USB3RX5_N"
+      ],
+      "USB_UP": [
+        "USB3RX_A0_N",
+        "USB3RX_A0_P",
+        "USB3TX_A0_N",
+        "USB3TX_A0_P",
+        "USB2P0_N",
+        "USB2P0_P",
+        "USB3RX_B0_N",
+        "USB3RX_B0_P",
+        "USB3TX_B0_N",
+        "USB3TX_B0_P"
+      ]
+    },
     "connection_grid_size": 50.0,
     "drawing": {
       "dashed_lines_dash_length_ratio": 12.0,
@@ -730,7 +783,7 @@
         "uuid": "fae64aac-e6a1-42ae-9b76-6570896d6bba"
       }
     ],
-    "used_designators": "L1,D1-15,C1-61,Y1,#PWR1-122,R1-29,J1-7,Q1,U1-9",
+    "used_designators": "#FLG1-3,L1,D1-19,C1-61,Y1,#PWR1-136,TP48-52,TP56,R1-32,J1-7,Q1,U1-9",
     "variants": []
   },
   "sheets": [

@@ -4239,7 +4239,7 @@
 		)
 		(uuid "8669dcd9-ec08-40d2-b9ea-edec9b79e4cd")
 	)
-	(text "P3 downstream: MCU"
+	(text "P5 downstream: MCU"
 		(exclude_from_sim no)
 		(at 316.23 284.988 0)
 		(effects
@@ -13904,7 +13904,7 @@
 		)
 		(uuid "ac181def-4c5c-4c58-93df-4a268a6f30d9")
 	)
-	(label "USB2PO_N"
+	(label "USB2P0_N"
 		(at 149.86 184.15 180)
 		(effects
 			(font
@@ -13924,7 +13924,7 @@
 		)
 		(uuid "b1d8d57a-3202-49e6-a018-e7905e522409")
 	)
-	(label "USB2PO_P"
+	(label "USB2P0_P"
 		(at 149.86 186.69 180)
 		(effects
 			(font
