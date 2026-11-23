@@ -15575,7 +15575,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "R_LED"
 			(at 429.26 94.2974 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15586,7 +15586,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 425.45 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -16258,7 +16258,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:UDFN-14_L3.5-W1.3-P0.50-BL"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 115.57 237.49 0)
 			(hide yes)
 			(show_name no)
@@ -18053,7 +18053,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "R_LED"
 			(at 429.26 222.5674 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18064,7 +18064,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 425.45 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -18867,7 +18867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:UDFN-14_L3.5-W1.3-P0.50-BL"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 297.18 328.93 0)
 			(hide yes)
 			(show_name no)
@@ -19086,7 +19086,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "R_LED"
 			(at 257.81 95.5674 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19097,7 +19097,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 254 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -19495,7 +19495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:UDFN-14_L3.5-W1.3-P0.50-BL"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 295.91 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -19726,7 +19726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:UDFN-14_L3.5-W1.3-P0.50-BL"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 467.36 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -20389,7 +20389,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:UDFN-14_L3.5-W1.3-P0.50-BL"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 115.57 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -21333,7 +21333,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "R_LED"
 			(at 259.08 340.6774 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21344,7 +21344,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 255.27 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -21425,7 +21425,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "R_LED"
 			(at 84.836 164.846 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22842,7 +22842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:UDFN-14_L3.5-W1.3-P0.50-BL"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 467.36 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -23984,7 +23984,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "R_LED"
 			(at 257.81 222.5674 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23995,7 +23995,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 254 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -24351,7 +24351,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:UDFN-14_L3.5-W1.3-P0.50-BL"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 295.91 210.82 0)
 			(hide yes)
 			(show_name no)

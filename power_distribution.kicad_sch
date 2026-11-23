@@ -6007,7 +6007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 			(at 38.1 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -7262,7 +7262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB:USB-C-SMD_TYPE-C-USB-18"
+		(property "Footprint" "JLCPCB:IND-SMD_L4.0-W4.0-A"
 			(at 172.72 97.79 0)
 			(hide yes)
 			(show_name no)

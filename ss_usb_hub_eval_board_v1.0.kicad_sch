@@ -4,6 +4,11 @@
 	(generator_version "10.0")
 	(uuid "fae64aac-e6a1-42ae-9b76-6570896d6bba")
 	(paper "A4")
+	(title_block
+		(title "Super Speed (USB 3.1 Gen 1, 5 Gbps) Hub Evaluaton Board")
+		(date "2026-11-23")
+		(rev "Rev 1.0")
+	)
 	(lib_symbols
 		(symbol "power:+1V2"
 			(power global)

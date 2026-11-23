@@ -8801,7 +8801,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 57.15 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -10005,7 +10005,7 @@
 				)
 			)
 		)
-		(property "Value" "12k 1%"
+		(property "Value" "12k"
 			(at 156.21 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
