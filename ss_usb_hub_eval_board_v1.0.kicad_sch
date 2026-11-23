@@ -838,7 +838,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "164651f5-f6da-4b9e-9374-e2dddd8e70cb")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR01"
 			(at 130.81 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -898,7 +898,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba"
-					(reference "#PWR067")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -915,7 +915,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "29f330c9-cf43-4923-b19c-c7a8b4b4f888")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR03"
 			(at 140.97 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -975,7 +975,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba"
-					(reference "#PWR079")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -993,7 +993,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a4c12708-9c33-45a6-b9a6-05152e0a1f5f")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR02"
 			(at 135.89 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -1053,7 +1053,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba"
-					(reference "#PWR073")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)

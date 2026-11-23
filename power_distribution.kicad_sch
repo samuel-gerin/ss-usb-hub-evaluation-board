@@ -4521,7 +4521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0347c93e-ea6a-481d-8107-4e4332b26bbc")
-		(property "Reference" "C53"
+		(property "Reference" "C22"
 			(at 110.49 70.2309 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4618,7 +4618,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "C53")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -4636,7 +4636,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "059cd3eb-2fc9-4a24-9ebd-753eea11c77e")
-		(property "Reference" "#PWR0136"
+		(property "Reference" "#PWR055"
 			(at 97.79 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -4697,7 +4697,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR0136")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -4715,7 +4715,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07faa225-d9f6-417b-9613-c55637d2b5ae")
-		(property "Reference" "R32"
+		(property "Reference" "R13"
 			(at 67.31 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4812,7 +4812,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "R32")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -4830,7 +4830,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d9830c4-5bd5-4a26-930b-50b8d6306109")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR065"
 			(at 220.98 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -4891,7 +4891,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR082")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -4909,7 +4909,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f8337ce-cbe0-46f6-83ef-11ec63bf73b7")
-		(property "Reference" "#PWR0132"
+		(property "Reference" "#PWR051"
 			(at 97.79 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -4969,7 +4969,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR0132")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -4987,7 +4987,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10e21a46-ef61-4e68-a52d-850e541ac20d")
-		(property "Reference" "U9"
+		(property "Reference" "U3"
 			(at 158.75 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5060,7 +5060,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "U9")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -5078,7 +5078,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14252604-5d96-4000-9290-682de6e4efed")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR050"
 			(at 69.85 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -5139,7 +5139,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR072")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -5157,7 +5157,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "176dcf16-6d21-409b-b10a-54dc6d4a47f0")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR056"
 			(at 106.68 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -5218,7 +5218,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR074")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -5236,7 +5236,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18ca3ba4-69b2-458a-8f6f-f9db5d4127a7")
-		(property "Reference" "R30"
+		(property "Reference" "R11"
 			(at 38.1 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5333,7 +5333,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "R30")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -5351,7 +5351,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ca209d7-81bd-4604-afa5-8b1c2436e09d")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR043"
 			(at 35.56 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -5411,7 +5411,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR0125")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -5429,7 +5429,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20239d83-f9a5-473c-a615-2b34102eddf5")
-		(property "Reference" "D17"
+		(property "Reference" "D3"
 			(at 39.37 170.4974 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5537,7 +5537,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "D17")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -5555,7 +5555,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2fa55ee3-6adc-4ffa-97c6-8a3cbec6be80")
-		(property "Reference" "#PWR0124"
+		(property "Reference" "#PWR053"
 			(at 97.79 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -5615,7 +5615,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR0124")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -5632,7 +5632,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4527ae91-d691-490c-8570-bc1d024fce51")
-		(property "Reference" "TP50"
+		(property "Reference" "TP1"
 			(at 117.094 154.94 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5655,7 +5655,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLCPCB:TestPoint_Keystone_5000_Miniature"
+		(property "Footprint" "JLCPCB:TH_BD3.2-D2.0"
 			(at 111.76 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -5727,7 +5727,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "TP50")
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -5745,7 +5745,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c97b39e-8f69-4277-8b21-3aef8a4cc1a8")
-		(property "Reference" "#PWR0126"
+		(property "Reference" "#PWR044"
 			(at 35.56 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -5805,7 +5805,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR0126")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -5823,7 +5823,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5847f1ff-505e-4cfd-ba33-2d581a8a5b9a")
-		(property "Reference" "C59"
+		(property "Reference" "C25"
 			(at 182.88 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5845,7 +5845,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 180.0352 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -5887,7 +5887,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "C59")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -5905,7 +5905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5cbf20f7-50c2-4ca1-921a-37e7b932383a")
-		(property "Reference" "C54"
+		(property "Reference" "C24"
 			(at 142.24 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5927,7 +5927,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 139.3952 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -5969,7 +5969,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "C54")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -5987,7 +5987,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5cc5e89c-216c-4ffb-ac26-ab1087f0a56f")
-		(property "Reference" "J7"
+		(property "Reference" "J1"
 			(at 38.735 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6049,7 +6049,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "J7")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -6066,7 +6066,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "61fba49a-7161-44f9-88d4-bb1de46b15b1")
-		(property "Reference" "TP56"
+		(property "Reference" "TP3"
 			(at 117.094 172.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6089,7 +6089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLCPCB:TestPoint_Keystone_5000_Miniature"
+		(property "Footprint" "JLCPCB:TH_BD3.2-D2.0"
 			(at 111.76 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -6161,7 +6161,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "TP56")
+					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -6179,7 +6179,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6309c0f0-4ddf-4ae5-95cf-5c6a2977a619")
-		(property "Reference" "R10"
+		(property "Reference" "R15"
 			(at 191.77 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6201,7 +6201,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 187.452 102.87 90)
 			(hide yes)
 			(show_name no)
@@ -6243,7 +6243,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "R10")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -6261,7 +6261,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64785462-cc97-4d77-ac1a-891ce57eba4b")
-		(property "Reference" "R21"
+		(property "Reference" "R14"
 			(at 72.39 82.5499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6358,7 +6358,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "R21")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -6376,7 +6376,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66358613-a55a-40ff-a591-821cb28d86ae")
-		(property "Reference" "#PWR0128"
+		(property "Reference" "#PWR047"
 			(at 50.8 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -6436,7 +6436,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR0128")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -6454,7 +6454,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "701d3a64-828d-43df-a83d-75870d643f04")
-		(property "Reference" "#PWR0130"
+		(property "Reference" "#PWR049"
 			(at 64.77 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -6514,7 +6514,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR0130")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -6532,7 +6532,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7fbebf60-3be3-4554-8e2e-1b18f0b23216")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR045"
 			(at 45.72 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -6593,7 +6593,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR068")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -6689,7 +6689,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "83387a32-9f41-4034-955a-a1258780e140")
-		(property "Reference" "C57"
+		(property "Reference" "C27"
 			(at 214.63 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6711,7 +6711,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 211.7852 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -6753,7 +6753,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "C57")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -6771,7 +6771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86f4c926-d6c7-4819-aea8-17c4bb215279")
-		(property "Reference" "#FLG04"
+		(property "Reference" "#FLG02"
 			(at 140.335 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -6832,7 +6832,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#FLG04")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -6850,7 +6850,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88c91c0b-bd45-40b8-a96f-f6bf8d1b6c40")
-		(property "Reference" "U8"
+		(property "Reference" "U2"
 			(at 157.48 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6870,7 +6870,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR"
+		(property "Footprint" "JLCPCB:SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR"
 			(at 157.48 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -6951,7 +6951,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "U8")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -6969,7 +6969,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a1d74cf-e857-4b6b-9497-1a02219b4113")
-		(property "Reference" "R31"
+		(property "Reference" "R12"
 			(at 53.34 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7066,7 +7066,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "R31")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -7084,7 +7084,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f8f545c-c4b9-47b7-9f8f-a724b383369a")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR064"
 			(at 210.82 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -7145,7 +7145,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR081")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -7163,7 +7163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95186bad-b1d3-4d69-ae98-341302ff18b8")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR059"
 			(at 158.75 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -7224,7 +7224,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR075")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -7262,7 +7262,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "JLCPCB:USB-C-SMD_TYPE-C-USB-18"
 			(at 172.72 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -7322,7 +7322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d944ce1-7c64-4e88-9b9b-20fbdb04319f")
-		(property "Reference" "#PWR0133"
+		(property "Reference" "#PWR052"
 			(at 97.79 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -7382,7 +7382,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR0133")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -7400,7 +7400,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8b596ca-5946-4eb7-acf4-c4e8e51f00c1")
-		(property "Reference" "#PWR0135"
+		(property "Reference" "#PWR054"
 			(at 97.79 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -7461,7 +7461,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR0135")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -7479,7 +7479,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b1c2c3a0-cc87-4fb5-9594-76fe42af1764")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR063"
 			(at 200.66 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -7540,7 +7540,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR080")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -7557,7 +7557,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b21e29b5-89c4-40bf-bcbb-399a0068eab5")
-		(property "Reference" "C56"
+		(property "Reference" "C26"
 			(at 204.47 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7579,7 +7579,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 201.6252 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -7621,7 +7621,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "C56")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -7639,7 +7639,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b23f63e9-4385-491b-9ede-307a7ddff1ec")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR057"
 			(at 138.43 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -7700,7 +7700,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR069")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -7718,7 +7718,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b78c53fd-a1b7-40ab-af33-ecb1b8d4fb83")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG03"
 			(at 204.47 65.405 0)
 			(hide yes)
 			(show_name no)
@@ -7779,7 +7779,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#FLG02")
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
@@ -7797,7 +7797,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba61974e-698c-4d07-bdbf-bacfca3b02dc")
-		(property "Reference" "#FLG03"
+		(property "Reference" "#FLG04"
 			(at 204.47 95.885 0)
 			(hide yes)
 			(show_name no)
@@ -7858,7 +7858,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#FLG03")
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -7876,7 +7876,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c02776e7-7a28-409d-878e-24fbe8e95f50")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR061"
 			(at 179.07 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -7937,7 +7937,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR071")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -7955,7 +7955,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c73df73d-ebde-4400-ac05-4d0b6192cc7e")
-		(property "Reference" "#PWR0127"
+		(property "Reference" "#PWR046"
 			(at 50.8 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -8015,7 +8015,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR0127")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -8033,7 +8033,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd9372d1-1744-4e45-9959-17d110bc637a")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR058"
 			(at 138.43 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -8094,7 +8094,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR076")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -8112,7 +8112,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfc3f78d-4125-4051-b560-637d3dda6c83")
-		(property "Reference" "R11"
+		(property "Reference" "R16"
 			(at 191.77 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8134,7 +8134,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 187.452 113.03 90)
 			(hide yes)
 			(show_name no)
@@ -8176,7 +8176,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "R11")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -8193,7 +8193,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d52d8793-5b4d-4708-826c-bc36c908468a")
-		(property "Reference" "TP51"
+		(property "Reference" "TP5"
 			(at 117.094 186.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8216,7 +8216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLCPCB:TestPoint_Keystone_5001_Miniature"
+		(property "Footprint" "JLCPCB:TH_BD3.2-D2.0"
 			(at 111.76 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -8288,7 +8288,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "TP51")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -8305,7 +8305,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9fff17e-9a46-4f80-b9a2-c7934471515b")
-		(property "Reference" "TP49"
+		(property "Reference" "TP4"
 			(at 117.094 179.07 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8328,7 +8328,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLCPCB:TestPoint_Keystone_5001_Miniature"
+		(property "Footprint" "JLCPCB:TH_BD3.2-D2.0"
 			(at 111.76 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -8400,7 +8400,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "TP49")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -8418,7 +8418,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbe32726-4179-4b9c-b0b5-26f510602339")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR062"
 			(at 189.23 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -8479,7 +8479,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR078")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -8496,7 +8496,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dc3d8af8-98c8-47c6-a72d-91651a49ce19")
-		(property "Reference" "C58"
+		(property "Reference" "C28"
 			(at 224.79 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8518,7 +8518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 221.9452 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -8560,7 +8560,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "C58")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -8578,7 +8578,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6bd643f-ad0b-42a4-ba37-469c914beb63")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR060"
 			(at 171.45 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -8639,7 +8639,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR070")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -8656,7 +8656,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e7bfed8b-4e0e-4cf5-822b-1c4a4eea244f")
-		(property "Reference" "TP52"
+		(property "Reference" "TP2"
 			(at 117.094 163.83 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8679,7 +8679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLCPCB:TestPoint_Keystone_5000_Miniature"
+		(property "Footprint" "JLCPCB:TH_BD3.2-D2.0"
 			(at 111.76 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -8751,7 +8751,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "TP52")
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -8769,7 +8769,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e88406ac-645d-4b83-8e29-5c901ace5136")
-		(property "Reference" "D19"
+		(property "Reference" "D5"
 			(at 68.58 170.4974 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8877,7 +8877,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "D19")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -8895,7 +8895,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9a33edd-d099-4d96-aca6-ba0a440dc3bd")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR048"
 			(at 64.77 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -8955,7 +8955,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "#PWR0123")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -9089,7 +9089,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f57be650-5282-463a-846b-39d3459823d5")
-		(property "Reference" "D18"
+		(property "Reference" "D4"
 			(at 54.61 170.4974 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9197,7 +9197,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "D18")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -9215,7 +9215,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f683bb5e-7920-48ec-924f-1745d584cb72")
-		(property "Reference" "C55"
+		(property "Reference" "C23"
 			(at 142.24 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9237,7 +9237,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 139.3952 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -9279,7 +9279,7 @@
 		(instances
 			(project "ss_usb_hub_eval_board_v1.0"
 				(path "/fae64aac-e6a1-42ae-9b76-6570896d6bba/36d12796-5080-4fc1-9a32-bebb94383b69"
-					(reference "C55")
+					(reference "C23")
 					(unit 1)
 				)
 			)
