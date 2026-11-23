@@ -5105,10 +5105,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C141836"
-		  (at 158.75 90.17 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TLV62569DBV"
 			(at 158.75 92.71 0)
 			(show_name no)
@@ -5145,6 +5141,17 @@
 		)
 		(property "Description" "High Efficiency Synchronous Buck Converter, Adjustable Output 0.6V-5.5V, 2A, SOT-23-5"
 			(at 158.75 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C141836"
+			(at 158.75 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

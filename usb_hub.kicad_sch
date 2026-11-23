@@ -6560,10 +6560,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C23179"
-		  (at 60.96 242.57 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "470"
 			(at 68.834 243.078 0)
 			(show_name no)
@@ -6598,6 +6594,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 64.77 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23179"
+			(at 60.96 242.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8720,10 +8727,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C25811"
-		  (at 294.386 127 90)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "200k"
 			(at 305.054 127 90)
 			(show_name no)
@@ -8758,6 +8761,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 299.72 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25811"
+			(at 294.386 127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10088,10 +10102,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C596824"
-		  (at 57.15 179.07 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "Crystal"
 			(at 57.15 181.61 0)
 			(show_name no)
@@ -10126,6 +10136,17 @@
 		)
 		(property "Description" "Two pin crystal"
 			(at 57.15 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C596824"
+			(at 57.15 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10358,10 +10379,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C22790"
-		  (at 156.21 40.64 90)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "12k"
 			(at 156.21 43.18 90)
 			(show_name no)
@@ -10396,6 +10413,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 156.21 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22790"
+			(at 156.21 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12025,10 +12053,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C25811"
-		  (at 294.386 129.54 90)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "200k"
 			(at 305.054 129.54 90)
 			(show_name no)
@@ -12063,6 +12087,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 299.72 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25811"
+			(at 294.386 129.54 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12355,10 +12390,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C25811"
-		  (at 152.654 93.98 90)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "200k"
 			(at 162.814 93.98 90)
 			(show_name no)
@@ -12393,6 +12424,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 157.48 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25811"
+			(at 152.654 93.98 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13031,10 +13073,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C23179"
-		  (at 39.37 242.57 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "470"
 			(at 47.244 243.078 0)
 			(show_name no)
@@ -13069,6 +13107,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 43.18 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23179"
+			(at 39.37 242.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

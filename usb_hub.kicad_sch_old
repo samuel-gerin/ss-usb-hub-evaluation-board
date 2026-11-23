@@ -6603,6 +6603,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C23179"
+			(at 60.96 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "38c575a0-585b-466b-85eb-cdf2db06b04b")
 		)
@@ -8759,6 +8770,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C25811"
+			(at 294.386 127 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e86a70eb-6067-4aff-9d2a-4be82ec6885b")
 		)
@@ -10123,6 +10145,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C596824"
+			(at 57.15 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7436b878-08dd-412b-9381-430d9326d5e2")
 		)
@@ -10380,6 +10413,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 156.21 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22790"
+			(at 156.21 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12052,6 +12096,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C25811"
+			(at 294.386 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "515fa800-dc96-4f47-96b9-9114967c419b")
 		)
@@ -12369,6 +12424,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 157.48 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25811"
+			(at 152.654 93.98 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13041,6 +13107,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 43.18 242.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23179"
+			(at 39.37 242.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

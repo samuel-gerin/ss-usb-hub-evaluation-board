@@ -5150,6 +5150,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C141836"
+			(at 158.75 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "48caee64-0624-4e30-9724-0c22fcb49151")
 		)
@@ -6226,7 +6237,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7212,7 +7223,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C23228"
+		(property "LCSC" "C23179"
 			(at 59.69 154.9399 0)
 			(hide yes)
 			(show_name no)

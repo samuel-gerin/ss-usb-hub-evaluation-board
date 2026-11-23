@@ -12627,10 +12627,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C138714"
-		  (at 504.952 52.578 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TPD4E05U06DQA"
 			(at 499.11 34.29 0)
 			(show_name no)
@@ -12668,6 +12664,17 @@
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
 			(at 499.11 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 504.952 52.578 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12911,7 +12918,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "204"
+		(property "LCSC" "C8218"
+		  (at 281.94 102.8699 0)
+		  (effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Value" "200"
 			(at 281.94 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13072,10 +13083,6 @@
 				(justify left)
 			)
 		)
-		(property "LCSC" "C23179"
-		  (at 283.21 359.4099 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "470"
 			(at 283.21 361.9499 0)
 			(show_name no)
@@ -13111,6 +13118,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 280.67 360.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23179"
+			(at 283.21 359.4099 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13423,10 +13441,6 @@
 				(justify left)
 			)
 		)
-		(property "LCSC" "C23184"
-		  (at 95.25 162.5599 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "49.9k"
 			(at 95.25 165.0999 0)
 			(show_name no)
@@ -13462,6 +13476,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 92.71 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23184"
+			(at 95.25 162.5599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15042,10 +15067,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C138714"
-		  (at 334.772 188.468 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TPD4E05U06DQA"
 			(at 328.93 170.18 0)
 			(show_name no)
@@ -15083,6 +15104,17 @@
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
 			(at 328.93 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 334.772 188.468 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15308,10 +15340,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C138714"
-		  (at 295.402 56.134 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TPD4E05U06DQA"
 			(at 289.306 37.592 0)
 			(show_name no)
@@ -15349,6 +15377,17 @@
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
 			(at 289.56 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 295.402 56.134 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16265,10 +16304,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C138714"
-		  (at 466.852 189.484 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TPD4E05U06DQA"
 			(at 460.756 170.942 0)
 			(show_name no)
@@ -16306,6 +16341,17 @@
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
 			(at 461.01 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 466.852 189.484 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16714,10 +16760,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C138714"
-		  (at 113.792 250.444 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TPD4E05U06DQA"
 			(at 107.696 231.902 0)
 			(show_name no)
@@ -16755,6 +16797,17 @@
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
 			(at 107.95 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 113.792 250.444 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17416,10 +17469,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C23138"
-		  (at 39.878 244.856 90)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "330"
 			(at 54.102 244.602 90)
 			(show_name no)
@@ -17454,6 +17503,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 46.99 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23138"
+			(at 39.878 244.856 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17578,10 +17638,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C138714"
-		  (at 296.672 188.214 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TPD4E05U06DQA"
 			(at 290.576 169.672 0)
 			(show_name no)
@@ -17619,6 +17675,17 @@
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
 			(at 290.83 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 296.672 188.214 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17848,10 +17915,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C138714"
-		  (at 333.502 56.388 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TPD4E05U06DQA"
 			(at 327.66 38.1 0)
 			(show_name no)
@@ -17889,6 +17952,17 @@
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
 			(at 327.66 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 333.502 56.388 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17958,10 +18032,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C138714"
-		  (at 84.582 250.444 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TPD4E05U06DQA"
 			(at 78.486 231.902 0)
 			(show_name no)
@@ -17999,6 +18069,17 @@
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
 			(at 78.74 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 84.582 250.444 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18332,10 +18413,6 @@
 				(justify left)
 			)
 		)
-		(property "LCSC" "C139392"
-		  (at 128.27 128.016 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TUSB321"
 			(at 128.524 151.13 0)
 			(show_name no)
@@ -18371,6 +18448,17 @@
 		)
 		(property "Description" "USB Type-C Configuration Channel Logic and Port Control with VCONN, X2QFN-12"
 			(at 115.57 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C139392"
+			(at 128.27 128.016 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18536,10 +18624,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C138714"
-		  (at 334.772 312.928 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TPD4E05U06DQA"
 			(at 328.93 294.64 0)
 			(show_name no)
@@ -18577,6 +18661,17 @@
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
 			(at 328.93 303.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 334.772 312.928 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18898,10 +18993,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C246015"
-		  (at 81.28 125.73 90)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "887k"
 			(at 81.28 128.27 90)
 			(show_name no)
@@ -18936,6 +19027,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 81.28 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C246015"
+			(at 81.28 125.73 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19483,7 +19585,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "341"
+		(property "LCSC" "C23138"
+		  (at 453.39 236.2199 0)
+		  (effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Value" "330"
 			(at 453.39 238.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19565,7 +19671,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "204"
+		(property "LCSC" "C8218"
+		  (at 453.39 99.0599 0)
+		  (effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Value" "200"
 			(at 453.39 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19645,10 +19755,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C138714"
-		  (at 143.002 250.444 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TPD4E05U06DQA"
 			(at 136.906 231.902 0)
 			(show_name no)
@@ -19686,6 +19792,17 @@
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
 			(at 137.16 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 143.002 250.444 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21174,10 +21291,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C138714"
-		  (at 466.852 52.324 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TPD4E05U06DQA"
 			(at 460.756 33.782 0)
 			(show_name no)
@@ -21215,6 +21328,17 @@
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
 			(at 461.01 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 466.852 52.324 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22330,10 +22454,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C138714"
-		  (at 504.952 189.738 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TPD4E05U06DQA"
 			(at 499.11 171.45 0)
 			(show_name no)
@@ -22371,6 +22491,17 @@
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
 			(at 499.11 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 504.952 189.738 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23510,10 +23641,6 @@
 				)
 			)
 		)
-		(property "LCSC" "C138714"
-		  (at 296.672 312.674 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "TPD4E05U06DQA"
 			(at 290.576 294.132 0)
 			(show_name no)
@@ -23551,6 +23678,17 @@
 		)
 		(property "Description" "4-Channel ESD Protection for Super-Speed USB 3.0 Interface, USON-10"
 			(at 290.83 303.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C138714"
+			(at 296.672 312.674 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24280,10 +24418,6 @@
 				(justify left)
 			)
 		)
-		(property "LCSC" "C4190"
-		  (at 84.328 172.72 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "2.2k"
 			(at 84.582 175.514 0)
 			(show_name no)
@@ -24319,6 +24453,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 82.55 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C4190"
+			(at 84.328 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24899,7 +25044,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "341"
+		(property "LCSC" "C23138"
+		  (at 283.21 234.9499 0)
+		  (effects (font (size 1.27 1.27)) (hide yes))
+		)
+		(property "Value" "330"
 			(at 283.21 237.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
