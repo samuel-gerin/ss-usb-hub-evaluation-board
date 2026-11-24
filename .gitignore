@@ -15,3 +15,6 @@ fp-info-cache
 # Generated reports
 *.rpt
 *.drc
+
+_restore_backup_*/
+*_old
