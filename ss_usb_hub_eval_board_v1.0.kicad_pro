@@ -530,7 +530,7 @@
         "line_style": 0,
         "name": "+1.2V",
         "pcb_color": "rgb(255, 255, 0)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgb(255, 255, 0)",
         "tuning_profile": "",
         "wire_width": 18
@@ -540,7 +540,7 @@
         "line_style": 0,
         "name": "+3.3V",
         "pcb_color": "rgb(255, 153, 0)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgb(255, 153, 0)",
         "tuning_profile": "",
         "wire_width": 18
@@ -549,8 +549,8 @@
         "bus_width": 18,
         "line_style": 0,
         "name": "+5V",
-        "pcb_color": "rgb(255, 0, 0)",
-        "priority": 3,
+        "pcb_color": "rgb(255, 0, 255)",
+        "priority": 4,
         "schematic_color": "rgb(255, 0, 0)",
         "tuning_profile": "",
         "wire_width": 18
@@ -560,10 +560,17 @@
         "line_style": 0,
         "name": "GND",
         "pcb_color": "rgb(72, 72, 72)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgb(0, 0, 0)",
         "tuning_profile": "",
         "wire_width": 18
+      },
+      {
+        "name": "USB",
+        "pcb_color": "rgb(0, 194, 0)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
       }
     ],
     "meta": {
@@ -595,6 +602,14 @@
       {
         "netclass": "+5V",
         "pattern": "/Power Distribution/+5V_in"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/IO/USB3*"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/IO/USB2*"
       }
     ]
   },
@@ -854,7 +869,7 @@
         "uuid": "fae64aac-e6a1-42ae-9b76-6570896d6bba"
       }
     ],
-    "used_designators": "H1-4,#FLG1-4,L1,D1-19,C1-65,Y1,#PWR1-140,TP1-5,TP48-52,TP56,R1-32,J1-7,Q1,U1-22",
+    "used_designators": "FID1-4,H1-4,#FLG1-4,L1,D1-19,C1-65,Y1,#PWR1-140,TP1-5,TP48-52,TP56,R1-32,J1-7,Q1,U1-22",
     "variants": []
   },
   "sheets": [
