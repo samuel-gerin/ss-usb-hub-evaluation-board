@@ -12918,6 +12918,10 @@
 				(justify left)
 			)
 		)
+		(property "LCSC" "C8218"
+		  (at 281.94 102.8699 0)
+		  (effects (font (size 1.27 1.27)) (hide yes))
+		)
 		(property "Value" "200"
 			(at 281.94 105.4099 0)
 			(show_name no)
@@ -19581,6 +19585,10 @@
 				(justify left)
 			)
 		)
+		(property "LCSC" "C23138"
+		  (at 453.39 236.2199 0)
+		  (effects (font (size 1.27 1.27)) (hide yes))
+		)
 		(property "Value" "330"
 			(at 453.39 238.7599 0)
 			(show_name no)
@@ -19662,6 +19670,10 @@
 				)
 				(justify left)
 			)
+		)
+		(property "LCSC" "C8218"
+		  (at 453.39 99.0599 0)
+		  (effects (font (size 1.27 1.27)) (hide yes))
 		)
 		(property "Value" "200"
 			(at 453.39 101.5999 0)
@@ -25031,6 +25043,10 @@
 				)
 				(justify left)
 			)
+		)
+		(property "LCSC" "C23138"
+		  (at 283.21 234.9499 0)
+		  (effects (font (size 1.27 1.27)) (hide yes))
 		)
 		(property "Value" "330"
 			(at 283.21 237.4899 0)
