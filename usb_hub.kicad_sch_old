@@ -10379,7 +10379,7 @@
 				)
 			)
 		)
-		(property "Value" "12k"
+		(property "Value" "12k 0.1%"
 			(at 156.21 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)

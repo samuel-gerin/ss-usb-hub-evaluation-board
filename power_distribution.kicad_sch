@@ -2672,6 +2672,18 @@
 		(uuid "05c68842-8217-4b72-8e1d-9fcb0481da04")
 	)
 	(rectangle
+		(start 133.604 131.064)
+		(end 185.42 148.59)
+		(stroke
+			(width 1.016)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "061c318c-c01d-47fa-b2cb-0414b57ffa92")
+	)
+	(rectangle
 		(start 33.02 132.08)
 		(end 68.58 193.04)
 		(stroke
@@ -2853,6 +2865,17 @@
 			(justify left)
 		)
 		(uuid "6edd166e-195f-4d6a-a089-610fc4bf2583")
+	)
+	(text "LAYOUT NOTE:\nPlace electrically noisy devices, including \nswitching  regulators, far away from the hub \ncircuit, RBIAS, crystal, and USB differential pairs. \np. 4 AN 26.21, 2.1.B\nRefer to the Microchip AN 26.2 application \nnote for additional details."
+		(exclude_from_sim no)
+		(at 134.62 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "776e37f0-7354-4b9b-966a-5ba584d0987d")
 	)
 	(text "DESIGN NOTE:\nThe VDD33 supply must be very clean. Noise on VDD33\nmust be filtered out before it is received by the hub device. \nSome systems require < 5 mV of ripple on VDD33 at the hub\ndevice pins to pass SSC certification of the USB 3.1 Gen 1 \ntest suite. Switching regulators are a common source for\nVDD33 noise. That is why an LDO is used here. p2 USB5096C\n"
 		(exclude_from_sim no)
@@ -3232,6 +3255,17 @@
 			(type default)
 		)
 		(uuid "4be966f4-ee48-40e8-816e-7431bc7f888d")
+	)
+	(polyline
+		(pts
+			(xy 158.75 113.03) (xy 153.67 129.54)
+		)
+		(stroke
+			(width 0.254)
+			(type dot)
+			(color 0 0 255 1)
+		)
+		(uuid "4f7d1f96-bb80-49c3-a64f-9186406d7d43")
 	)
 	(wire
 		(pts

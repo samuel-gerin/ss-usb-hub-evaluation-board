@@ -11411,7 +11411,7 @@
 			)
 		)
 	)
-	(label "USB3TX1C_P"
+	(label "USB3TX5C_P"
 		(at 328.93 339.09 180)
 		(effects
 			(font
@@ -11491,7 +11491,7 @@
 		)
 		(uuid "17893520-0b18-4f3d-9cd4-700e3b95c230")
 	)
-	(label "USB3TX1C_N"
+	(label "USB3TX2C_N"
 		(at 499.11 72.39 180)
 		(effects
 			(font
@@ -11521,7 +11521,7 @@
 		)
 		(uuid "22f6d0de-9af3-4a09-8218-9a727832b5e5")
 	)
-	(label "USB3TX1C_P"
+	(label "USB3TX2C_P"
 		(at 499.11 78.74 180)
 		(effects
 			(font
@@ -11621,7 +11621,7 @@
 		)
 		(uuid "4798dd72-3da9-4e37-9178-29524cddc92b")
 	)
-	(label "USB3TX1C_N"
+	(label "USB3TX3C_N"
 		(at 328.93 208.28 180)
 		(effects
 			(font
@@ -11661,7 +11661,7 @@
 		)
 		(uuid "4bf6e4f9-4a81-4e8f-a588-596eab923f0f")
 	)
-	(label "USB3TX1C_P"
+	(label "USB3TX3C_P"
 		(at 328.93 214.63 180)
 		(effects
 			(font
@@ -11761,7 +11761,7 @@
 		)
 		(uuid "7b925896-9f31-41f5-96ce-cc67c755ecf7")
 	)
-	(label "USB3TX1C_P"
+	(label "USB3TX4C_P"
 		(at 499.11 215.9 180)
 		(effects
 			(font
@@ -11831,7 +11831,7 @@
 		)
 		(uuid "8dbcecea-dc25-456f-9167-3a0792cb78d6")
 	)
-	(label "USB3TX1C_N"
+	(label "USB3TX5C_N"
 		(at 328.93 332.74 180)
 		(effects
 			(font
@@ -11841,7 +11841,7 @@
 		)
 		(uuid "95fca64c-a15c-4fba-86e5-1cc051f519ec")
 	)
-	(label "USB3TX1C_N"
+	(label "USB3TX4C_N"
 		(at 499.11 209.55 180)
 		(effects
 			(font
@@ -12918,10 +12918,6 @@
 				(justify left)
 			)
 		)
-		(property "LCSC" "C8218"
-		  (at 281.94 102.8699 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "200"
 			(at 281.94 105.4099 0)
 			(show_name no)
@@ -12957,6 +12953,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 279.4 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C8218"
+			(at 281.94 102.8699 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19585,10 +19592,6 @@
 				(justify left)
 			)
 		)
-		(property "LCSC" "C23138"
-		  (at 453.39 236.2199 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "330"
 			(at 453.39 238.7599 0)
 			(show_name no)
@@ -19624,6 +19627,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 450.85 237.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23138"
+			(at 453.39 236.2199 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19671,10 +19685,6 @@
 				(justify left)
 			)
 		)
-		(property "LCSC" "C8218"
-		  (at 453.39 99.0599 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "200"
 			(at 453.39 101.5999 0)
 			(show_name no)
@@ -19710,6 +19720,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 450.85 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C8218"
+			(at 453.39 99.0599 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25044,10 +25065,6 @@
 				(justify left)
 			)
 		)
-		(property "LCSC" "C23138"
-		  (at 283.21 234.9499 0)
-		  (effects (font (size 1.27 1.27)) (hide yes))
-		)
 		(property "Value" "330"
 			(at 283.21 237.4899 0)
 			(show_name no)
@@ -25083,6 +25100,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 280.67 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C23138"
+			(at 283.21 234.9499 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

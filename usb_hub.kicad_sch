@@ -3045,7 +3045,7 @@
 		(uuid "118482dc-277f-4f39-97e6-ee503d6d8f35")
 	)
 	(rectangle
-		(start 27.178 163.068)
+		(start 27.178 140.97)
 		(end 86.868 205.74)
 		(stroke
 			(width 1.016)
@@ -3082,6 +3082,30 @@
 			(type none)
 		)
 		(uuid "3097e078-0963-4424-b5a6-afd7bc61d8e5")
+	)
+	(rectangle
+		(start 30.226 185.166)
+		(end 83.566 202.692)
+		(stroke
+			(width 1.016)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "35aca105-0fd3-49da-996f-ee18ea2f38f9")
+	)
+	(rectangle
+		(start 190.246 214.376)
+		(end 243.586 231.902)
+		(stroke
+			(width 1.016)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "4651bf2f-06b8-482b-9ce6-89265d2a6d13")
 	)
 	(rectangle
 		(start 94.234 113.538)
@@ -3123,8 +3147,8 @@
 		(uuid "6ff87a7c-9654-4591-ab04-919515db8241")
 	)
 	(rectangle
-		(start 170.434 26.924)
-		(end 210.82 39.37)
+		(start 170.434 24.13)
+		(end 210.82 40.64)
 		(stroke
 			(width 1.016)
 			(type solid)
@@ -3239,6 +3263,19 @@
 		(uuid "d801a3cc-bb98-4433-84e2-df08d4df1bc2")
 	)
 	(rectangle
+		(start 21.59 69.088)
+		(end 87.884 91.44)
+		(stroke
+			(width 0.762)
+			(type solid)
+			(color 132 132 132 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "e47c3470-7a5d-4ee8-ac7a-fce0f8653948")
+	)
+	(rectangle
 		(start 272.796 178.054)
 		(end 335.026 198.374)
 		(stroke
@@ -3251,6 +3288,17 @@
 		)
 		(uuid "e4ec41ad-a401-4b69-b511-a632418ee254")
 	)
+	(text "LAYOUT NOTE:\nThe connection of bypass capacitors to their pins, \nand to power and ground, must be low inductance\n(short and very wide traces). \np. 4 AN 26.21, 2.1.D\nRefer to the Microchip AN 26.2 application note for \nadditional details."
+		(exclude_from_sim no)
+		(at 191.77 223.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1d66b416-c56c-4bf9-bd69-6e3cc44a0abc")
+	)
 	(text "DESIGN NOTE:\nBoth PRT_DIS_Px and PRT_DIS_Mx\npulled high to disable\nthe associated downstream port. \nDisabling the USB 2.0 port \nwill also disable the corresponding \nUSB 3.2 Gen 1 port. p. 21"
 		(exclude_from_sim no)
 		(at 326.39 73.66 0)
@@ -3262,6 +3310,18 @@
 			(justify left)
 		)
 		(uuid "2022b4e2-a6fd-45e4-859e-797b0b14fbcd")
+	)
+	(text "DESIGN NOTE:\nFor stand-alone applications, RESETn should be connected \nto a supervisory circuit that monitors VDD12 and VDD33. \nRESETn should be asserted when either voltage is below its \nthreshold. RESETn could also be asserted under manual\nor host control. A simple RC circuit may be used for \nstand-alone applications, but this only follows one voltage\nrail andmay not work well when power is quickly removed \nthen reapplied to the system, and is therefore not recommended.\np.3 AN 26.2 2.4"
+		(exclude_from_sim no)
+		(at 22.86 80.772 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "22088307-54da-44ad-b4a9-f81a10698280")
 	)
 	(text "USB Hub"
 		(exclude_from_sim no)
@@ -3300,6 +3360,17 @@
 		)
 		(uuid "33c3d323-13c4-403c-b076-89f4e17fbe81")
 	)
+	(text "LAYOUT NOTE:\nRoute crystal traces at least 5 times the minimum \ntrace spacing away from other traces. Refer to the\np. 6 AN 26.21, 2.1.K\nMicrochip AN 26.2 application note for additional \ndetails."
+		(exclude_from_sim no)
+		(at 31.75 194.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3f42ccbb-8b37-4184-ab52-26d18970af56")
+	)
 	(text "DESIGN NOTE:\n200k pull down,\nno battery charging,\np.22"
 		(exclude_from_sim no)
 		(at 335.28 139.7 0)
@@ -3314,7 +3385,7 @@
 	)
 	(text "Oscilator"
 		(exclude_from_sim no)
-		(at 57.15 170.18 0)
+		(at 57.15 148.59 0)
 		(effects
 			(font
 				(size 3.175 3.175)
@@ -3337,9 +3408,9 @@
 		)
 		(uuid "70736451-8988-4be6-9c2b-6cf811644a82")
 	)
-	(text "LAYOUT NOTE:\nPlace the resistor as close to the \ndevice as possible with a dedicated, \nlow impedance connection to the GND\nplane."
+	(text "LAYOUT NOTE:\nPlace the resistor as close to the \ndevice as possible with a dedicated, \nlow impedance connection to the GND\nplane.\nThe return path must not be shared \nwith any other components."
 		(exclude_from_sim no)
-		(at 171.45 33.02 0)
+		(at 171.45 32.766 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3645,7 +3716,7 @@
 		(uuid "d91c500c-7d86-4d90-8e8c-c8adb3c5d5f6")
 	)
 	(junction
-		(at 45.72 186.69)
+		(at 44.45 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dda76a1f-466d-4ec9-9d4e-b6572f2ddace")
@@ -3657,7 +3728,7 @@
 		(uuid "e650a2d2-d0d7-49ac-8993-971d21a97f30")
 	)
 	(junction
-		(at 67.31 186.69)
+		(at 66.04 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f4d38b35-bb12-4997-9f8e-69bca2f311f6")
@@ -4560,7 +4631,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 186.69) (xy 67.31 186.69)
+			(xy 74.93 165.1) (xy 66.04 165.1)
 		)
 		(stroke
 			(width 0)
@@ -5074,7 +5145,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 186.69) (xy 45.72 186.69)
+			(xy 36.83 165.1) (xy 44.45 165.1)
 		)
 		(stroke
 			(width 0)
@@ -5215,7 +5286,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 194.31) (xy 67.31 195.58)
+			(xy 66.04 172.72) (xy 66.04 173.99)
 		)
 		(stroke
 			(width 0)
@@ -5336,7 +5407,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 194.31) (xy 45.72 195.58)
+			(xy 44.45 172.72) (xy 44.45 173.99)
 		)
 		(stroke
 			(width 0)
@@ -5376,7 +5447,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 186.69) (xy 53.34 186.69)
+			(xy 44.45 165.1) (xy 52.07 165.1)
 		)
 		(stroke
 			(width 0)
@@ -5523,6 +5594,17 @@
 			(type default)
 		)
 		(uuid "c3fbfd52-0318-49c9-a75c-37f5e5d87b9f")
+	)
+	(polyline
+		(pts
+			(xy 87.63 88.9) (xy 146.05 105.41)
+		)
+		(stroke
+			(width 0.254)
+			(type dot)
+			(color 72 72 72 1)
+		)
+		(uuid "c5a1994a-42ab-40bd-8ccf-30a3a47ca060")
 	)
 	(wire
 		(pts
@@ -5836,7 +5918,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 186.69) (xy 67.31 186.69)
+			(xy 59.69 165.1) (xy 66.04 165.1)
 		)
 		(stroke
 			(width 0)
@@ -5935,6 +6017,16 @@
 			(justify left bottom)
 		)
 		(uuid "01f34410-ae86-4813-bd6b-88cbddda5e27")
+	)
+	(label "RBIAS"
+		(at 177.8 46.99 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "02245f77-c5c2-454b-9f96-bb3c46390a6c")
 	)
 	(label "USB2P5_P"
 		(at 143.51 153.67 0)
@@ -6197,7 +6289,7 @@
 		(uuid "8b6a0b0c-cd3e-4d0e-945e-0611543f49c9")
 	)
 	(label "XTALI"
-		(at 38.1 186.69 0)
+		(at 36.83 165.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6307,7 +6399,7 @@
 		(uuid "d2cde278-ecd0-4b86-82f2-937cbf4aeb3c")
 	)
 	(label "XTALO"
-		(at 76.2 186.69 180)
+		(at 74.93 165.1 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8273,7 +8365,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 67.31 190.5 0)
+		(at 66.04 168.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8284,7 +8376,7 @@
 		(fields_autoplaced yes)
 		(uuid "5ce78921-4bca-4104-9f21-5d5b0ede2b4e")
 		(property "Reference" "C2"
-			(at 71.12 189.2299 0)
+			(at 69.85 167.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8295,7 +8387,7 @@
 			)
 		)
 		(property "Value" "33p C0G"
-			(at 71.12 191.7699 0)
+			(at 69.85 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8306,7 +8398,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 68.2752 194.31 0)
+			(at 67.0052 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8317,7 +8409,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 190.5 0)
+			(at 66.04 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8328,7 +8420,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 67.31 190.5 0)
+			(at 66.04 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8339,7 +8431,7 @@
 			)
 		)
 		(property "LCSC" "C1663"
-			(at 71.12 189.2299 0)
+			(at 69.85 167.6399 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9505,7 +9597,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 67.31 195.58 0)
+		(at 66.04 173.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9516,7 +9608,7 @@
 		(fields_autoplaced yes)
 		(uuid "7a9ac890-3d41-48cc-84c2-0264d93890e2")
 		(property "Reference" "#PWR07"
-			(at 67.31 201.93 0)
+			(at 66.04 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9527,7 +9619,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 67.31 200.66 0)
+			(at 66.04 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9538,7 +9630,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 67.31 195.58 0)
+			(at 66.04 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9549,7 +9641,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 195.58 0)
+			(at 66.04 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9560,7 +9652,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 67.31 195.58 0)
+			(at 66.04 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9740,7 +9832,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 45.72 195.58 0)
+		(at 44.45 173.99 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9751,7 +9843,7 @@
 		(fields_autoplaced yes)
 		(uuid "823603dd-a811-4edc-bb1d-54ad6f9f5c88")
 		(property "Reference" "#PWR05"
-			(at 45.72 201.93 0)
+			(at 44.45 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9762,7 +9854,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 45.72 200.66 0)
+			(at 44.45 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9773,7 +9865,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 45.72 195.58 0)
+			(at 44.45 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9784,7 +9876,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 195.58 0)
+			(at 44.45 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9795,7 +9887,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 45.72 195.58 0)
+			(at 44.45 173.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10082,7 +10174,7 @@
 	)
 	(symbol
 		(lib_id "Device:Crystal")
-		(at 57.15 186.69 0)
+		(at 55.88 165.1 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10093,7 +10185,7 @@
 		(fields_autoplaced yes)
 		(uuid "8788c934-d577-42e1-b878-af243eda8783")
 		(property "Reference" "Y1"
-			(at 57.15 179.07 0)
+			(at 55.88 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10103,7 +10195,7 @@
 			)
 		)
 		(property "Value" "Crystal"
-			(at 57.15 181.61 0)
+			(at 55.88 160.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10113,7 +10205,7 @@
 			)
 		)
 		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD"
-			(at 57.15 186.69 0)
+			(at 55.88 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10124,7 +10216,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 186.69 0)
+			(at 55.88 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10135,7 +10227,7 @@
 			)
 		)
 		(property "Description" "Two pin crystal"
-			(at 57.15 186.69 0)
+			(at 55.88 165.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10146,7 +10238,7 @@
 			)
 		)
 		(property "LCSC" "C596824"
-			(at 57.15 179.07 0)
+			(at 55.88 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10379,7 +10471,7 @@
 				)
 			)
 		)
-		(property "Value" "12k"
+		(property "Value" "12k 0.1%"
 			(at 156.21 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10422,7 +10514,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C22790"
+		(property "LCSC" "C326735"
 			(at 156.21 40.64 90)
 			(hide yes)
 			(show_name no)
@@ -12124,7 +12216,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 45.72 190.5 0)
+		(at 44.45 168.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12135,7 +12227,7 @@
 		(fields_autoplaced yes)
 		(uuid "e83639dd-b738-4e70-951f-90507c018b7c")
 		(property "Reference" "C1"
-			(at 49.53 189.2299 0)
+			(at 48.26 167.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12146,7 +12238,7 @@
 			)
 		)
 		(property "Value" "33p C0G"
-			(at 49.53 191.7699 0)
+			(at 48.26 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12157,7 +12249,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 46.6852 194.31 0)
+			(at 45.4152 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12168,7 +12260,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 190.5 0)
+			(at 44.45 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12179,7 +12271,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 45.72 190.5 0)
+			(at 44.45 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12190,7 +12282,7 @@
 			)
 		)
 		(property "LCSC" "C1663"
-			(at 49.53 189.2299 0)
+			(at 48.26 167.6399 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

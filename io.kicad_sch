@@ -3724,6 +3724,31 @@
 		)
 	)
 	(rectangle
+		(start 168.656 128.778)
+		(end 213.106 140.208)
+		(stroke
+			(width 1.016)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "0442ad51-42f6-40e5-b546-df4e62d4f3ff")
+	)
+	(rectangle
+		(start 162.56 243.586)
+		(end 214.63 260.35)
+		(stroke
+			(width 0.762)
+			(type solid)
+			(color 132 132 132 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "04794036-0375-47be-8b5e-664bfe969954")
+	)
+	(rectangle
 		(start 258.572 257.302)
 		(end 291.592 267.462)
 		(stroke
@@ -3776,6 +3801,18 @@
 		(uuid "1693f97a-6330-413a-a713-e95f2fe4597a")
 	)
 	(rectangle
+		(start 32.258 278.384)
+		(end 147.828 362.204)
+		(stroke
+			(width 1.016)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "18ff5ba9-1a3f-4139-9f79-f96808cd9b2e")
+	)
+	(rectangle
 		(start 258.572 381.762)
 		(end 291.592 391.922)
 		(stroke
@@ -3815,8 +3852,8 @@
 		(uuid "5fa93a7c-997a-47c2-8f34-64ab79d01b66")
 	)
 	(rectangle
-		(start 258.572 125.222)
-		(end 291.592 135.382)
+		(start 282.702 129.032)
+		(end 315.722 139.192)
 		(stroke
 			(width 0.762)
 			(type solid)
@@ -3867,6 +3904,18 @@
 		(uuid "beef3992-8093-4167-bdaf-239c381dd0cc")
 	)
 	(rectangle
+		(start 238.506 126.492)
+		(end 278.13 139.7)
+		(stroke
+			(width 1.016)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "c20afdc1-b22d-4467-a9a4-0a62512472fd")
+	)
+	(rectangle
 		(start 407.67 25.4)
 		(end 572.77 142.748)
 		(stroke
@@ -3904,6 +3953,42 @@
 		)
 		(uuid "0430ae8f-c600-48dc-bae3-85cbe95197cd")
 	)
+	(text "USB2.0 SIGNALS"
+		(exclude_from_sim no)
+		(at 35.306 292.354 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "1a6f2922-6de4-4838-be0b-faf2ca08ee78")
+	)
+	(text "DESIGN NOTE:\nConsideration of ESD protection:\nDo not place ESD protection ICs on SuperSpeed Tx \nand Rx differential pairs unless proven necessary.\np, 3 AN 26.21 1.1.2 B\nRefer to the Microchip AN 26.2 application note \nfor additional details."
+		(exclude_from_sim no)
+		(at 163.83 251.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "1cd02001-655d-4dba-9a89-6c0edb64202c")
+	)
+	(text "LAYOUT NOTE:\nThe VBUS path to each downstream\nport must be wide and have very low \nimpedance.\np. 7 AN 26.21 2.2.A"
+		(exclude_from_sim no)
+		(at 240.03 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3b87920e-275a-466e-93ea-335220c7bf70")
+	)
 	(text "P4 downstream: The PureThermal 3 FLIR Lepton 3.1R Module"
 		(exclude_from_sim no)
 		(at 488.95 161.29 0)
@@ -3931,7 +4016,7 @@
 	)
 	(text "ELECTRICAL CHARACTERISTICS:\nIout: 1.2A (0.956A - 1.426A)\nsee table 5.3 MIC20x9"
 		(exclude_from_sim no)
-		(at 260.35 130.81 0)
+		(at 284.48 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4003,6 +4088,39 @@
 		)
 		(uuid "895c458e-cf94-4713-95fb-d140f5960735")
 	)
+	(text "□ A. The differential impedance of USB 3.1 Gen 1 signals (RX+/- & TX+/-)\n should be 90 ohms +/- 7 ohms.\nRefer to the USB 3.1 Gen 1 specification for additional information.\n□ B. Place 0.1uF SS_TX AC coupling capacitors near the USB connectors.\n□ C. Keep SuperSpeed traces as short as possible, on outer layers, \nand over unbroken ground planes.\nTraces longer than 6 inches may degrade signal quality.\n□ D. Maintain a routing spacing to foreign traces of at least 5 times \nthe differential spacing between SuperSpeed lines.\n□ E. Eliminate or minimize the number of vias on USB 3.1 Gen 1 signals \nwhenever possible. The +/- signals in\nthe each USB 3.1 Gen 1 differential pair can be swapped for easier routing. See the product data sheet for\nmore information on PortSwap.\n□ F. The length of a SuperSpeed USB differential pair traces must \nbe within 0.13mm of each other. "
+		(exclude_from_sim no)
+		(at 35.56 343.154 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "92276766-8777-4869-ba01-6938fb5a0c7e")
+	)
+	(text "□ A. Maintain a routing spacing to foreign traces of at least 3 \ntimes the differential spacing between high\nspeed DP and DM. Refer to the Microchip AN 26.2 application note \nfor additional details.\n□ B. The length of SuperSpeed USB differential pair traces must\n be within 0.13mm of each other. Refer to the\nMicrochip AN 26.2 application note for additional details.\n□ C. The differential impedance of USB 2.0 signals (DP and DM) must \nbe 90 ohms +/- 15%. Microchip suggests 90 ohms +/- 10%. Refer to \nthe USB 2.0 specification for additional information."
+		(exclude_from_sim no)
+		(at 35.56 306.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "93106016-2405-4346-ae78-bd31fea8a0a6")
+	)
+	(text "LAYOUT NOTE:\nPlace 0.1uF SS_TX AC coupling capacitors \nnear the USB connectors.\np. 7 AN 26.21 2.1.3.B"
+		(exclude_from_sim no)
+		(at 170.18 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d5e9853c-04df-4f6d-bf26-d626faa20ee5")
+	)
 	(text "P3 downstream: The PureThermal 3 FLIR Lepton 3.1R Module"
 		(exclude_from_sim no)
 		(at 317.5 161.29 0)
@@ -4053,6 +4171,30 @@
 			(justify left)
 		)
 		(uuid "f1c50e01-9609-46cc-ac60-a9c6b939a128")
+	)
+	(text "USB3.1 GEN 1 SIGNALS"
+		(exclude_from_sim no)
+		(at 35.56 324.866 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.381)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "f80bc862-c9db-43f5-91d6-6dce637b5000")
+	)
+	(text "p. 7 AN 26.21 for a General overview\nAN 26.22 for in depth overview"
+		(exclude_from_sim no)
+		(at 35.052 282.448 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fce2ef67-cb07-4582-a475-c015bf04403b")
 	)
 	(junction
 		(at 483.87 74.93)
@@ -7634,6 +7776,17 @@
 		)
 		(uuid "7c5644f2-7838-4c6c-8a92-9d42ec0c5583")
 	)
+	(polyline
+		(pts
+			(xy 265.43 106.68) (xy 255.27 125.73)
+		)
+		(stroke
+			(width 0.254)
+			(type dot)
+			(color 0 0 255 1)
+		)
+		(uuid "7d524259-f23b-4699-81b2-761d3dd4d5e4")
+	)
 	(wire
 		(pts
 			(xy 439.42 229.87) (xy 439.42 232.41)
@@ -8848,7 +9001,7 @@
 	)
 	(polyline
 		(pts
-			(xy 278.13 106.68) (xy 274.32 123.19)
+			(xy 285.75 109.22) (xy 295.91 128.27)
 		)
 		(stroke
 			(width 0.254)
@@ -9726,6 +9879,17 @@
 			(type default)
 		)
 		(uuid "f0b07516-9195-4bc9-ad3e-a2f0a7e97059")
+	)
+	(polyline
+		(pts
+			(xy 189.23 140.97) (xy 162.56 199.39)
+		)
+		(stroke
+			(width 0.254)
+			(type dot)
+			(color 0 0 255 1)
+		)
+		(uuid "f1be266e-df1a-405c-b54a-a37d31a0f830")
 	)
 	(wire
 		(pts
@@ -12523,7 +12687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB:USB-A-TH_MOLEX_484080003"
+		(property "Footprint" "JLCPCB:USB-SMD_692122030100"
 			(at 256.54 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -14683,7 +14847,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB:USB-A-TH_MOLEX_484080003"
+		(property "Footprint" "JLCPCB:USB-SMD_692122030100"
 			(at 257.81 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -14798,7 +14962,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB:USB-A-TH_MOLEX_484080003"
+		(property "Footprint" "JLCPCB:USB-SMD_692122030100"
 			(at 427.99 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -23321,7 +23485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB:USB-A-TH_MOLEX_484080003"
+		(property "Footprint" "JLCPCB:USB-SMD_692122030100"
 			(at 257.81 320.04 0)
 			(hide yes)
 			(show_name no)
@@ -24334,7 +24498,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB:USB-A-TH_MOLEX_484080003"
+		(property "Footprint" "JLCPCB:USB-SMD_692122030100"
 			(at 427.99 196.85 0)
 			(hide yes)
 			(show_name no)
