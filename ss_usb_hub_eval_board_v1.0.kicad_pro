@@ -210,6 +210,7 @@
         }
       ],
       "track_widths": [
+        0.0,
         0.0
       ],
       "tuning_pattern_settings": {
@@ -556,10 +557,12 @@
         "wire_width": 18
       },
       {
+        "clearance": 0.2,
         "name": "CRYSTAL",
         "pcb_color": "rgb(136, 0, 255)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
         "tuning_profile": ""
       },
       {
@@ -573,24 +576,34 @@
         "wire_width": 18
       },
       {
+        "clearance": 0.2,
         "name": "RBIAS",
         "pcb_color": "rgb(0, 255, 165)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
         "tuning_profile": ""
       },
       {
+        "clearance": 0.13,
+        "diff_pair_gap": 0.203,
+        "diff_pair_width": 0.1537,
         "name": "USB2",
         "pcb_color": "rgb(255, 0, 255)",
         "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.1537,
         "tuning_profile": ""
       },
       {
+        "clearance": 0.13,
+        "diff_pair_gap": 0.203,
+        "diff_pair_width": 0.172,
         "name": "USB3",
         "pcb_color": "rgb(0, 255, 0)",
         "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.172,
         "tuning_profile": ""
       }
     ],
