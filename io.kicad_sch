@@ -3941,6 +3941,32 @@
 		)
 		(uuid "d0449cf2-afda-4c28-a8ad-11f1cfb86ae1")
 	)
+	(rectangle
+		(start 61.849 103.124)
+		(end 100.33 121.92)
+		(stroke
+			(width 1.27)
+			(type solid)
+			(color 255 0 0 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "db78e0ed-a1b8-4b66-911c-086348bdb9c6")
+	)
+	(text "DESIGN NOTE:\nSwapped TX and RX \nfor easier routing, \nCC1 and CC2 also need \nto be swapped then"
+		(exclude_from_sim no)
+		(at 63.246 112.522 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.2381)
+				(color 255 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "04280d46-77b3-4156-898a-58ebd4f1c814")
+	)
 	(text "DESIGN NOTE:\nresistor dividor for VBUS Detect\n50k and 100k required, USB5906C p. 12"
 		(exclude_from_sim no)
 		(at 125.73 160.02 0)
@@ -8513,6 +8539,17 @@
 		)
 		(uuid "ac474273-d8e9-4d12-9ab8-5936a067ef0d")
 	)
+	(polyline
+		(pts
+			(xy 90.17 123.19) (xy 95.25 134.62)
+		)
+		(stroke
+			(width 0.254)
+			(type dot)
+			(color 255 0 0 1)
+		)
+		(uuid "ac58ba58-016e-4619-8ac5-514494d43927")
+	)
 	(wire
 		(pts
 			(xy 266.7 327.66) (xy 361.95 327.66)
@@ -11609,16 +11646,6 @@
 		)
 		(uuid "0b67b707-2a66-4103-ae33-457788865314")
 	)
-	(label "CC2"
-		(at 95.25 139.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0c8f0f84-9b44-4678-ba11-1cccdd8bc2df")
-	)
 	(label "USB2P2_P"
 		(at 533.4 66.04 180)
 		(effects
@@ -11698,6 +11725,16 @@
 			(justify right bottom)
 		)
 		(uuid "2a00cbca-5417-4b08-ba84-678a425ff75a")
+	)
+	(label "CC1"
+		(at 95.25 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2d293b12-b64b-4131-a013-3a735234254c")
 	)
 	(label "USB2P4_N"
 		(at 532.13 194.31 180)
@@ -11839,16 +11876,6 @@
 		)
 		(uuid "4b2ef1ac-ab3d-432b-835f-b73906f0afa1")
 	)
-	(label "CC1"
-		(at 95.25 137.16 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4bf6e4f9-4a81-4e8f-a588-596eab923f0f")
-	)
 	(label "USB3TX3C_P"
 		(at 328.93 214.63 180)
 		(effects
@@ -11898,6 +11925,16 @@
 			(justify left bottom)
 		)
 		(uuid "5ce51805-613c-4b72-97c2-299b2262d71b")
+	)
+	(label "CC2"
+		(at 95.25 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6c31530b-f24d-40f3-8b13-2272723b224a")
 	)
 	(label "USB3RX5_P"
 		(at 361.95 327.66 180)
