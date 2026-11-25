@@ -6028,6 +6028,16 @@
 		)
 		(uuid "02245f77-c5c2-454b-9f96-bb3c46390a6c")
 	)
+	(label "USB3TX_A0_P"
+		(at 314.96 95.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "031bb7d6-c09b-4fff-beb7-7a5fa2d91139")
+	)
 	(label "USB2P5_P"
 		(at 143.51 153.67 0)
 		(effects
@@ -6037,6 +6047,16 @@
 			(justify left bottom)
 		)
 		(uuid "07bfb05d-9277-41ee-8cfd-4e635bd120a1")
+	)
+	(label "USB3RX_A0_N"
+		(at 314.96 85.09 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "11704bde-4701-4dac-8865-da1062426fd1")
 	)
 	(label "XTALO"
 		(at 143.51 54.61 0)
@@ -6048,6 +6068,16 @@
 		)
 		(uuid "19008e3a-7810-472a-8abf-35cc398e720e")
 	)
+	(label "USB3RX_A0_P"
+		(at 314.96 87.63 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2149d266-0ec3-4d16-b2e9-425d6d258320")
+	)
 	(label "HOST_TYPE0"
 		(at 43.18 260.35 0)
 		(effects
@@ -6058,16 +6088,6 @@
 		)
 		(uuid "236c25f2-27bb-437e-8ec8-a1e3a392fc9d")
 	)
-	(label "USB3TX_B0_N"
-		(at 314.96 92.71 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3080860b-8a46-4ce2-ba0b-0f7874bfabc5")
-	)
 	(label "USB3RX4_N"
 		(at 143.51 148.59 0)
 		(effects
@@ -6077,16 +6097,6 @@
 			(justify left bottom)
 		)
 		(uuid "3678ece1-6593-4f39-8d96-50eaadde7b28")
-	)
-	(label "USB3TX_B0_P"
-		(at 314.96 95.25 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "36e9f1b5-47a9-472c-acf7-71fa19470c1c")
 	)
 	(label "USB3RX2_P"
 		(at 143.51 90.17 0)
@@ -6138,6 +6148,16 @@
 		)
 		(uuid "3fd1f94b-5da8-4f64-b887-bfa101c24970")
 	)
+	(label "USB3TX_B0_P"
+		(at 314.96 54.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "47605e41-7471-4808-b15f-6abe3cf6f3de")
+	)
 	(label "USB3RX3_N"
 		(at 143.51 130.81 0)
 		(effects
@@ -6157,16 +6177,6 @@
 			(justify left bottom)
 		)
 		(uuid "51093e97-83f9-42ff-8af4-77df8f8acb1f")
-	)
-	(label "USB3RX_A0_P"
-		(at 314.96 49.53 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5795e142-983e-488c-ac80-6c47a6470a37")
 	)
 	(label "USB3RX2_N"
 		(at 143.51 92.71 0)
@@ -6188,16 +6198,6 @@
 		)
 		(uuid "59fb765f-2cbb-4077-99df-0d0d58d1784d")
 	)
-	(label "USB3RX_B0_N"
-		(at 314.96 85.09 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5ec778eb-87af-42ff-9c2c-0f1dd622c2c3")
-	)
 	(label "USB3RX3_P"
 		(at 143.51 128.27 0)
 		(effects
@@ -6217,6 +6217,16 @@
 			(justify left bottom)
 		)
 		(uuid "72a3d580-0b38-4211-a26f-e5ad142bbbf6")
+	)
+	(label "USB3RX_B0_N"
+		(at 314.96 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "77ce291b-b7b3-47b0-8677-4ef1c748aa25")
 	)
 	(label "USB3RX4_P"
 		(at 143.51 146.05 0)
@@ -6258,16 +6268,6 @@
 		)
 		(uuid "81a6a9f9-d279-4e32-bedf-f7f3c43c9b9b")
 	)
-	(label "USB3TX_A0_N"
-		(at 314.96 54.61 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "84cf23ac-74d9-470d-a572-00161ddd75dd")
-	)
 	(label "USB3TX4_P"
 		(at 143.51 138.43 0)
 		(effects
@@ -6287,6 +6287,16 @@
 			(justify left bottom)
 		)
 		(uuid "8b6a0b0c-cd3e-4d0e-945e-0611543f49c9")
+	)
+	(label "USB3RX_B0_P"
+		(at 314.96 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8d9aa89f-b2b6-418e-8687-8ea9de59e98d")
 	)
 	(label "XTALI"
 		(at 36.83 165.1 0)
@@ -6318,6 +6328,16 @@
 		)
 		(uuid "ae1d21e6-10df-406c-9708-8ef988ccf815")
 	)
+	(label "USB3TX_B0_N"
+		(at 314.96 57.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b320699e-0ca9-45f5-be3c-0b7e90d69ebd")
+	)
 	(label "USB2P2_N"
 		(at 143.51 80.01 0)
 		(effects
@@ -6338,16 +6358,6 @@
 		)
 		(uuid "c32e10c8-4a2c-4ba7-9f5d-3425c603094f")
 	)
-	(label "USB3RX_B0_P"
-		(at 314.96 87.63 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c4821809-030e-4c31-b502-6ddd3c5814ea")
-	)
 	(label "HOST_TYPE0"
 		(at 314.96 166.37 180)
 		(effects
@@ -6367,16 +6377,6 @@
 			(justify left bottom)
 		)
 		(uuid "c7df0687-a244-4eb7-9c70-c9ed6685580f")
-	)
-	(label "USB3RX_A0_N"
-		(at 314.96 46.99 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c8a50062-4c19-4e04-8a9f-77d49a519cd8")
 	)
 	(label "USB2P1_N"
 		(at 143.51 62.23 0)
@@ -6428,15 +6428,15 @@
 		)
 		(uuid "e430c7a8-9127-4f0e-84c0-b67e2ec4c4e1")
 	)
-	(label "USB3TX_A0_P"
-		(at 314.96 57.15 180)
+	(label "USB3TX_A0_N"
+		(at 314.96 92.71 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "e44510f6-42cf-4719-a502-f6485bd39ab2")
+		(uuid "e94f4163-e706-49ab-ae76-8e68805d9975")
 	)
 	(label "USB3TX3_N"
 		(at 143.51 123.19 0)
